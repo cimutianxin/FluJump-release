@@ -2,7 +2,7 @@
 
 A minimal implementation of the influenza A hemagglutinin (HA) surveillance-scoring workflow described in the FluJump manuscript. It trains frozen ESM-2 linear readouts and converts their raw decision scores into training-set quantiles and alert tiers.
 
-This repository intentionally contains no research-data pipeline or experiment suite. For the full analyses, see [cimutianxin/FluJump](https://github.com/cimutianxin/FluJump).
+This repository contains source-data acquisition and the minimal modelling workflow, not the full research pipeline or experiment suite. For the full analyses, see [cimutianxin/FluJump](https://github.com/cimutianxin/FluJump).
 
 ## Implemented workflow
 
@@ -21,7 +21,7 @@ Scores and tiers are ranking aids, not transmission diagnoses or calibrated risk
 
 ## Scope
 
-The minimal implementation covers model fitting and scoring only. It does **not** implement NCBI downloads, metadata standardization, CD-HIT clustering, cluster-label construction, target-side layer selection, subtype/year-forward evaluation, comparators, or site-attribution experiments.
+The release covers source-data acquisition, model fitting and scoring. It does **not** implement downstream data cleaning, CD-HIT clustering, cluster-label construction, target-side layer selection, subtype/year-forward evaluation, comparators, or site-attribution experiments.
 
 Training labels must therefore be prepared beforehand. In the manuscript, `label_is_jump` denotes a cluster observed in at least two host or environmental surveillance categories, and `label_is_jump_human` denotes its subset with human plus at least one other non-human category. All isolates inherit their cluster label. Use only the intended H1+H3 training rows when reproducing the manuscript workflow; the script does not filter subtypes or splits automatically.
 
@@ -37,7 +37,36 @@ source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-The first run downloads the ESM-2 backbone from Hugging Face. If it is already cached, add `--offline` to either command to disable network access.
+The first model run downloads the ESM-2 backbone from Hugging Face. If it is already cached, add `--offline` to either model command to disable network access.
+
+## Source-data acquisition
+
+Run all acquisition commands from the repository root. Downloaded files are written under `data/`, which is excluded from Git.
+
+### NCBI Protein HA sequences and metadata
+
+Set the email required by NCBI E-utilities, then run the original primary and H5 supplementary queries:
+
+```bash
+export NCBI_EMAIL="your-email@example.org"
+python data_acquisition/download_flu.py
+python data_acquisition/supplement_h5.py
+```
+
+`NCBI_API_KEY` can also be set when higher request limits are needed. The scripts write `data/raw/H1_raw.csv`, `H3_raw.csv`, `H5_raw.csv` and `H7_raw.csv`, including HA sequences, host annotations, collection dates, geography and other GenBank qualifiers. The H5 script adds bovine and human records and deduplicates by accession.
+
+NCBI Protein is a live database, so a new download can differ from the manuscript collection. The fixed archived dataset, rather than a fresh query, is required for exact numerical reproduction.
+
+### Borkenhagen receptor-binding data
+
+Download Data S1 sequences and Data S2 labels from the open PMC archive of [Borkenhagen and Runstadler (2024)](https://doi.org/10.1111/irv.70044), then merge them using the identifier-matching procedure from the research repository:
+
+```bash
+python data_acquisition/download_borkenhagen.py
+python data_acquisition/merge_borkenhagen.py
+```
+
+Raw files are saved in `data/dataset_borkenhagen_raw/`; the merged table is written to `data/dataset_borkenhagen/borkenhagen_merged.csv`. These commands acquire and merge the source data only; they do not recreate the manuscript's control filtering or stratified split.
 
 ## 1. Train
 
