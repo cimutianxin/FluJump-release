@@ -1,0 +1,38 @@
+{
+  "sign_test_note": "符号检验口径 = label_is_jump 的 cluster_auc 逐层剖面（已复算核对）；10-06 起为 09-19 词边界修复后标签口径",
+  "sign_test": {
+    "H10": {
+      "n_layers_below_0.5": 20,
+      "n_layers": 31,
+      "p_two_sided": 0.14961278438568115
+    },
+    "H4": {
+      "n_layers_below_0.5": 6,
+      "n_layers": 31,
+      "p_two_sided": 0.0008779102936387062
+    }
+  },
+  "human_h10n8_cluster": {
+    "cluster": "H10_197",
+    "event": "H10N8 江西 2013",
+    "label": "jump_human",
+    "layer": 13,
+    "rank_raw": 313,
+    "rank_flipped": 9,
+    "n_clusters": 321
+  },
+  "eval_size": {
+    "H10": {
+      "n_isolates": 1828,
+      "n_clusters": 321,
+      "n_pos_clusters_jump": 11,
+      "n_pos_clusters_jump_human": 2
+    },
+    "H4": {
+      "n_isolates": 3198,
+      "n_clusters": 408,
+      "n_pos_clusters_jump": 18,
+      "n_pos_clusters_jump_human": 0
+    }
+  }
+}

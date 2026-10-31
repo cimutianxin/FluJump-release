@@ -1,0 +1,21 @@
+accession,subtype,cluster_id,host_category,host_species,collection_year,group,expected_host,label_is_jump,label_is_jump_human,seq_len,raw_prediction,p_human
+WZL43931,H3,123,human,Homo sapiens,2023,human_H3,human,0,0,566,HUMAN VIRUS: 85.6%,0.856
+XFD28191,H3,123,human,Homo sapiens,2024,human_H3,human,0,0,566,HUMAN VIRUS: 85.3%,0.853
+WBR44974,H3,126,human,Homo sapiens,2022,human_H3,human,0,0,566,HUMAN VIRUS: 86.7%,0.867
+WZL42111,H3,123,human,Homo sapiens,2023,human_H3,human,0,0,566,HUMAN VIRUS: 85.3%,0.853
+WZL48519,H3,123,human,Homo sapiens,2023,human_H3,human,0,0,566,HUMAN VIRUS: 85.3%,0.853
+ADM73543,H1,903,human,Homo sapiens,2009,human_H1,human,0,0,406,NON-HUMAN VIRUS: 54.0%,0.45999999999999996
+YCB21064,H1,6,human,Homo sapiens,2025,human_H1,human,0,0,566,HUMAN VIRUS: 87.8%,0.878
+XFC83801,H1,32,human,Homo sapiens,2024,human_H1,human,0,0,566,HUMAN VIRUS: 87.2%,0.872
+XFC81170,H1,32,human,Homo sapiens,2024,human_H1,human,0,0,566,HUMAN VIRUS: 87.2%,0.872
+ADM73533,H1,903,human,Homo sapiens,2009,human_H1,human,0,0,406,NON-HUMAN VIRUS: 54.0%,0.45999999999999996
+ALP30744,H5,397,avian,chicken,2013,avian_H5,avian,0,0,560,HUMAN VIRUS: 84.8%,0.848
+BAJ23238,H5,344,avian,Anas platyrhynchos a migratory duck,1976,avian_H5,avian,0,0,564,HUMAN VIRUS: 85.8%,0.858
+AAN17266,H5,315,avian,Influenza A virus (A/mallard duck/PA/10218/84(H5N2)),-1,avian_H5,avian,0,0,564,HUMAN VIRUS: 81.6%,0.816
+QPM32908,H5,94,avian,chicken,2015,avian_H5,avian,0,0,567,HUMAN VIRUS: 85.5%,0.855
+ALB07520,H5,94,avian,goose,2015,avian_H5,avian,0,0,567,HUMAN VIRUS: 85.4%,0.8540000000000001
+YEV12912,H5,70,avian,Branta canadensis,2026,avian_H5_2026_c70,avian,1,1,567,HUMAN VIRUS: 86.5%,0.865
+YEO13386,H5,70,avian,Branta canadensis,2026,avian_H5_2026_c70,avian,1,1,567,HUMAN VIRUS: 86.7%,0.867
+YEO13382,H5,70,avian,Anser caerulescens,2026,avian_H5_2026_c70,avian,1,1,567,HUMAN VIRUS: 86.6%,0.866
+YEO13359,H5,70,avian,Branta canadensis,2026,avian_H5_2026_c70,avian,1,1,567,HUMAN VIRUS: 86.4%,0.8640000000000001
+YEO13314,H5,70,avian,Branta canadensis,2026,avian_H5_2026_c70,avian,1,1,567,HUMAN VIRUS: 86.7%,0.867

@@ -1,0 +1,62 @@
+{
+  "n_total": 665,
+  "n_train": 466,
+  "n_val": 99,
+  "n_test": 100,
+  "subtype_dist": {
+    "H1": 558,
+    "H3": 107
+  },
+  "cluster_count": 27,
+  "reg_mean": 225.06015037593986,
+  "reg_std": 491.7054066290588,
+  "class_dist": {
+    "human_first": 420,
+    "<1yr": 129,
+    "1-3yr": 50,
+    "3yr+": 66
+  },
+  "split_class_dist": {
+    "train": {
+      "human_first": 297,
+      "<1yr": 83,
+      "1-3yr": 38,
+      "3yr+": 48
+    },
+    "val": {
+      "human_first": 64,
+      "<1yr": 23,
+      "1-3yr": 6,
+      "3yr+": 6
+    },
+    "test": {
+      "human_first": 59,
+      "<1yr": 23,
+      "1-3yr": 6,
+      "3yr+": 12
+    }
+  },
+  "subtypes": [
+    "H1",
+    "H3"
+  ],
+  "emb_types": [
+    "L1",
+    "L3",
+    "L1L3"
+  ],
+  "interval_bins": [
+    0,
+    365,
+    1095,
+    999999
+  ],
+  "interval_labels": [
+    "human_first",
+    "<1yr",
+    "1-3yr",
+    "3yr+"
+  ],
+  "label_source": "raw iso_interval 重算（未 clamp），human_first 独立成类",
+  "alignment": "accession-based merge + accession-based embedding slicing"
+}

@@ -1,0 +1,407 @@
+ID,Label
+cfg_001,0
+cfg_002,0
+cfg_005,0
+cfg_006,0
+cfg_015,0
+cfg_016,0
+cfg_019,0
+cfg_020,0
+cfg_021,0
+cfg_022,0
+cfg_023,0
+cfg_024,0
+cfg_025,0
+cfg_056,0
+cfg_033,0
+cfg_028,1
+cfg_030,0
+cfg_031,0
+cfg_057,0
+cfg_035,0
+cfg_036,0
+cfg_037,0
+cfg_038,0
+cfg_039,0
+cfg_040,0
+cfg_051,0
+cfg_052,0
+cfg_053,0
+cfg_054,0
+cfg_055,0
+cfg_061,0
+cfg_074,0
+cfg_075,0
+cfg_076,0
+cfg_078,0
+cfg_085,0
+cfg_100,0
+cfg_101,0
+cfg_102,0
+cfg_103,0
+cfg_104,1
+cfg_105,0
+cfg_106,0
+cfg_108,0
+cfg_109,0
+cfg_111,0
+cfg_214,1
+cfg_239,1
+cfg_240,0
+cfg_241,0
+cfg_242,1
+cfg_243,1
+cfg_256,0
+cfg_257,0
+cfg_259,0
+cfg_260,0
+cfg_261,0
+cfg_262,1
+cfg_338,1
+cfg_265,0
+cfg_267,1
+cfg_268,1
+cfg_269,1
+cfg_270,1
+cfg_288,1
+cfg_289,0
+cfg_291,0
+cfg_346,0
+cfg_351,0
+cfg_352,0
+cfg_350,1
+cfg_354,0
+cfg_355,0
+cfg_373,1
+cfg_374,0
+cfg_375,0
+cfg_419,0
+cfg_410,0
+cfg_411,0
+cfg_413,0
+cfg_414,0
+cfg_415,0
+cfg_417,0
+cfg_418,0
+cfg_458,1
+cfg_421,0
+cfg_454,0
+cfg_457,0
+cfg_422,0
+cfg_423,0
+cfg_409,0
+cfg_431,1
+cfg_183,0
+cfg_552,0
+cfg_439,0
+cfg_119,0
+cfg_450,1
+cfg_452,1
+cfg_462,0
+cfg_474,0
+cfg_471,0
+cfg_472,0
+cfg_473,0
+cfg_480,0
+cfg_488,0
+cfg_490,0
+cfg_496,0
+cfg_497,0
+cfg_564,1
+cfg_519,0
+cfg_521,0
+cfg_527,1
+cfg_528,1
+cfg_529,0
+cfg_530,0
+cfg_082,1
+cfg_532,1
+cfg_536,0
+cfg_537,0
+cfg_538,1
+cfg_539,0
+cfg_540,0
+cfg_543,0
+cfg_544,0
+cfg_545,0
+cfg_008,0
+cfg_010,1
+cfg_012,0
+cfg_014,0
+cfg_041,0
+cfg_042,0
+cfg_043,0
+cfg_044,0
+cfg_045,0
+cfg_046,1
+cfg_047,0
+cfg_048,0
+cfg_049,0
+cfg_062,0
+cfg_066,0
+cfg_065,1
+cfg_072,0
+cfg_096,0
+cfg_115,1
+cfg_154,0
+cfg_140,0
+cfg_121,0
+cfg_129,1
+cfg_131,1
+cfg_137,1
+cfg_143,1
+cfg_147,0
+cfg_149,1
+cfg_157,1
+cfg_159,1
+cfg_160,1
+cfg_172,1
+cfg_175,1
+cfg_176,1
+cfg_177,1
+cfg_178,1
+cfg_192,0
+cfg_185,0
+cfg_221,0
+cfg_222,1
+cfg_223,0
+cfg_228,1
+cfg_231,1
+cfg_233,0
+cfg_234,1
+cfg_235,0
+cfg_237,0
+cfg_245,1
+cfg_246,1
+cfg_247,0
+cfg_248,1
+cfg_339,1
+cfg_296,0
+cfg_300,0
+cfg_324,1
+cfg_310,1
+cfg_314,0
+cfg_316,1
+cfg_322,0
+cfg_328,1
+cfg_332,1
+cfg_406,1
+cfg_407,0
+cfg_499,1
+cfg_133,1
+cfg_196,0
+cfg_276,0
+cfg_277,0
+cfg_278,0
+cfg_279,1
+cfg_280,0
+cfg_281,0
+cfg_282,1
+cfg_283,0
+cfg_284,0
+cfg_285,0
+cfg_258,0
+cfg_388,0
+cfg_383,1
+cfg_384,1
+cfg_389,0
+cfg_382,1
+cfg_213,0
+cfg_274,0
+A/gull/Massachusetts/14WP00016/2014(H4N4),0
+A/yellow-billed teal/Chile/C25814/2017 (H7N6),0
+A/mallard duck/Ohio/16OS0869/2016 (H7N3),0
+A/glaucous-winged_gull/Southcentral_Alaska/16MB02941/2016(H16N3),0
+A/Brisbane/59/2007 (H1N1),1
+A/mallard/Netherlands/1/2014 (H10N7),0
+A/duck/Interior_Alaska/11PG00459/2011(H2N3),0
+A/duck/England/1956 (H11N6),0
+A/mallard/Astrakhan/263/1982 (H14N5),0
+A/swine/Ohio/16TOSU5421/2016 (H1N2),1
+A/ruddy turnstone/Delaware/892/2002(H6N1),0
+A/mallard/Republic of Georgia/4/2010 (H1N1),0
+A/duck/Czechoslovakia/1956 (H4N6),0
+A/turkey/Massachusetts/3740/1965 (H6N2),0
+A/swine/Ohio/19TOSU4462/2019(H1N2),1
+A/lesser black-backed gull/Iceland/145/2010 (H11N2),0
+A/yellow_billed_teal/Chile/C8619/2016,0
+A/mallard_duck/Maryland/16OS2559/2016,0
+A/RUDDY TURNSTONE/DE/328/2018(H12N5),0
+A/American white pelican/Minnesota/Sg-0611/2008,0
+A/herring_gull/Massachusetts/A00648685/2008(H13N2),0
+A/ring-billed_gull/Massachusetts/12DC00060/2012(H13N6),0
+A/blue_winged_teal/Texas/UGAI15_6890/2015,0
+A/mallard/Maine/A00198555/2007(H1N1),0
+A/mallard/Interior_Alaska/12ML00957/2014(H1N1),0
+A/American_Black_Duck/Maine/A00090256/2007(H3N2),0
+A/long-tailed duck/Wisconsin/16OS4632/2016 (H3N8),0
+A/mallard/Interior_Alaska/9BM12326/2009(H3N8),0
+A/northern_pintail/Interior_Alaska/10BM07040/2010(H4N6),0
+A/American_green-winged_teal/Alaska/19TL00078/2019(H4N6),0
+A/common_eider/Massachusetts/A00165665/2006(H10N2),0
+A/swine/Kansas/2014-102/2014(H3N2),1
+A/HONG KONG/1/1968(H3N2),0
+A/yellow-billed pintail/Chile/6/2013(H4N6),0
+A/Environment/Maryland/17OS3341/2017 (H10N3),0
+A/kelp gull/Chile/C27733/2017 (H13N8),0
+A/kelp gull/Chile/C8939/2016 (H13N2),0
+A/environment/Chile/C20182/2016 (H13N9),0
+A/Blue-winged Teal/Ohio/18OS1695/2018(H14N5),0
+A/northern shoveler/Mississippi/12OS456/2012,0
+A/red knot/Delaware/541/1988 (H4N6),0
+A/blue-winged teal/Illinois/10OS1563/2010 (H4N6),0
+A/mallard/Alberta/203/1992 (H6N5),0
+A/Fort Monmouth/1/1947 (H1N1),1
+A/blue-winged teal/Illinois/10OS1546/2010 (H3N6),0
+A/blue-winged teal/Iowa/10OS2411/2010 (H3N8),0
+A/ruddy turnstone/Virginia/2297/1988 (H9N9),0
+A/shorebird/Delaware Bay/31/1996 (H9N7),0
+A/shorebird/Delaware Bay/102/2000 (H10N4),0
+A/shorebird/Delaware Bay/338/2009 (H10N1),0
+A/mallard/Wisconsin/4218/2009 (H12N5),0
+A/northern pintail/Missouri/319/2009 (H12N5),0
+A/gull/Maryland/704/1977 (H13N6),0
+A/mallard/Interior_Alaska/10BM07066/2010(H7N3),0
+A/glaucous gull/Alaska/44198-027/2006,0
+A/American_green-winged_teal/Interior_Alaska/9BM12356/2009(H3N8),0
+A/swine/Mexico/SG1444/2011 (H3N2),1
+A/Georgia/F32551/2012 (H1N1)pdm09,1
+A/Tennessee/F5029/2014(H1N1),1
+A/human/Taipei/0032/2016 (H1N1),1
+A/human/Rochester/0090/2013 (H3N2),0
+A/human/Baltimore/0244/2017 (H3N2),0
+A/swine/Guangdong/K6/2010,0
+A/VICTORIA/210/2009(H3N2),1
+A/Uruguay/716/2007 (H3N2),1
+A/Canine/IL/41915/2015,0
+A/Common Goldeneye/Wisconsin/18OS2949/2018 (H11N9),0
+A/duck/Ukraine/1963 (H3N8),0
+A/Sydney/5/1997 (H3N2),1
+A/northern_pintail/Alaska/19TL00162/2019(H3N8),0
+A/blue-winged teal/Wisconsin/402/1983 (H4N6),0
+A/glaucous-winged_gull/Southcentral_Alaska/17MB01587_1/2017(H4N7),0
+A/mallard/Interior_Alaska/12ML00678/2013(H12N5),0
+A/glaucous-winged_gull/Southcentral_Alaska/15MB01429/2015(H13N6),0
+A/glaucous-winged_gull/Southcentral_Alaska/15MB01632/2015(H13N6),0
+A/glaucous-winged_gull/Southcentral_Alaska/18MB00688/2018(H13N6),0
+A/glaucous-winged_gull/Southcentral_Alaska/13MB02558/2013(H16N3),1
+A/American_green-winged_teal/Minto_Flats_Alaska/19TL00405/2019(H1N1),0
+A/mallard/Wisconsin/455/1979 (H10N7),0
+A/duck/Jiangsu/k1203/2010(H5N8),0
+A/American green-winged teal/California/HKWF609/2007(H5N2),0
+A/human/Baltimore/R0252/2018 (H1N1),1
+A/environment/South Carolina/UGAI17-4979/2017 (H2N5),0
+A/ruddy turnstone/New Jersey/UGAI14-1399/2014 (H6N1),0
+A/ruddy turnstone/New Jersey/UGAI16-2139/2016 (H6N5),0
+A/northern pintail duck/Alaska/UGAI16-3997/2016 (H8N4),0
+A/blue-winged teal/Louisiana/UGAI14-430/2014 (H10N3),0
+A/ruddy turnstone/New Jersey/UGAI16-1299/2016 (H10N9),0
+A/ruddy turnstone/New Jersey/UGAI16-1474/2016 (H11N9),0
+A/ruddy turnstone/New Jersey/UGAI14-1147/2014 (H12N4),0
+A/environment/South Carolina/UGAI18-1316/2018(H12N5),0
+A/American green-winged teal/Mississippi/300/2010 (H11N9),0
+A/laughing gull/Delaware Bay/2718/1987 (H9N5),0
+A/shorebird/Delaware Bay/216/1999 (H11N2),0
+A/mallard/Interior_Alaska/8MP0547/2008(H8N4),0
+A/mallard/Interior_Alaska/8MP0689/2008(H8N4),0
+A/kelp gull/Chile/C10791/2016 (H16N3),1
+A/glaucous-winged_gull/Southcentral_Alaska/12NH01285/2012(H16N3),0
+A/glaucous-winged_gull/Southcentral_Alaska/11JR02474/2011(H13N6),0
+A/mallard/Southcentral_Alaska/12ML01615/2014(H2N1),0
+A/ruddy turnstone/New Jersey/UGAI15-3254/2015 (H7N3),0
+A/ruddy turnstone/New Jersey/UGAI16-2120/2016(H6N8),0
+A/mallard/Sweden/50/2002(H3N8)Ê,0
+A/mallard/Netherlands/1/1999 (H4N6),0
+A/NWS/1933 (H1N1),0
+A/blue-winged teal/Alberta/346/2007 (H4N3),0
+A/turkey/Wisconsin/1/1966 (H9N2),0
+A/mallard/Illinois/10OS4334/2010 (H10N7),0
+A/mallard/Alberta/125/1999 (H11N6),0
+A/brown_hooded_gull/Chile/C8851/2016,1
+A/ruddy turnstone/New Jersey/UGAI16-1048/2016 (H16N3),0
+A/northern_pintail/Interior_Alaska/6MP0792/2006(H2N3),0
+A/blue-winged teal/Missouri/15OS5111/2015(H2N9),0
+A/mallard duck/Ohio/16OS0672/2016 (H8N4),0
+A/mallard/Sweden/24/2002 (H8N4),0
+"A/common teal/Netherlands/10/2000(H1N1),Ê",0
+A/mallard/Sweden/81/2002(H6N1)Ê,0
+A/ruddy turnstone/New Jersey/UGAI16-1492/2016(H11N5),0
+A/Common Goldeneye/Wisconsin/17OS5750/2017 (H2N3),0
+A/Anhui/1/2013,0
+A/Netherlands/219/2003(H7N7),0
+A/chicken/VietNam/NCVD-016/2008)H5N1),0
+A/turkey/Italy/4602/1999(H7N1),0
+A/Australian shelduck/Western Australia/1756/1983,0
+A/China/0428HA/2021(H10N3),0
+A/China/CSKFQ-22-5/2022(H3N8),0
+A/yunnan/0127/2015(H5N6),0
+A/herring gull/DE/703/1988,0
+A/Egypt/2321-NAMRU3/2007(H5N1),0
+A/black-headed gull/Netherlands/1/2000,0
+A/Japan/305/1957,0
+A/barnswallow/Hong Kong/D10-1161/2010(H5N1),0
+A/chicken/Italy/22A/1998(H5N9),0
+A/pintail duck/Alberta/114/1979,0
+A/Hong Kong/35820/2009,1
+A/environment/Jiangxi/28/2009,0
+A/bar headed goose/Mongolia/143/2005,0
+A/Canada/720/2005,0
+A/duck/Yangzhou/906/2002,0
+A/Hong Kong/3239/2008,0
+shuffled genes,0
+shuffled genes,0
+A/Fujiansiming/19/2021H9N2),1
+A/black headed gull/Sweden/1/1999 (H13N6),0
+A/sandpiper/Southcentral_Alaska/16MB01220/2016(H5N2),0
+shuffled genes,0
+A/sandpiper/Southcentral_Alaska/16MB01156/2016(H5N2),0
+A/duck/NZL/76/1984(H9N1),0
+shuffled genes,0
+A/swine/Jamesburg/1/1942 (H1N1),1
+A/TAIWAN/1/1986(H1N1),1
+A/mallard duck/Chile/C4079/2015 (H1N1),0
+A/American_green-winged_teal/Interior_Alaska/11BM03165/2011(H2N9),0
+A/mallard/Netherlands/5/1999(H2N9)Ê,0
+A/swine/Missouri/4296424/2006(H2N3),1
+A/Philippines/2/1982 (H3N2),1
+A/American_green-winged_teal/Alaska/19TL00145/2019(H3N8),0
+A/camel/Mongolia/335/2012 (H3N8),0
+A/swine/Missouri/A01727926/2015(H4N6),1
+A/quail/California/D113023808/2012,0
+A/king eider/Alaska/44068-67/2006(H4N7),0
+A/yellow-billed teal/Chile/C24042/2017 (H5N3),0
+A/chicken/Texas/167280-4/2002(H5N3),0
+A/chicken/NL/FAV-0033/2021,0
+A/goose/Interior_Alaska/11PG00149/2011(H6N1),0
+A/duck/Eastern China/11/2009(H6N6),0
+A/shearwater/Australia/1/1973 (H6N5),0
+A/mallard/Southcentral_Alaska/15ML00267/2015(H7N3),0
+A/mallard/Netherlands/12/2000 (H7N3),0
+A/feline/New York/WVDL-14/2016(H7N2),0
+A/northern_pintail/Interior_Alaska/9BM11643/2009(H8N4),0
+A/mallard duck/Ohio/16OS0841/2016 (H8N4),0
+A/turkey/Ontario/6118/1968 (H8N4),0
+A/gull/Massachusetts/13JR00943/2013(H9N1),0
+A/guinea fowl/Hong Kong/WF10/1999 (H9N2),1
+A/shorebird/Delaware Bay/127/2003 (H9N2),0
+A/seal/Netherlands/P14-221/2014 (H10N7),0
+A/green-winged_teal/Southcentral_Alaska/18MB01702/2018(H10N7),0
+A/chicken/Germany/N/1949 (H10N7),0
+A/least_sandpiper/Southcentral_Alaska/18MB01147/2018(H11N9),0
+A/laughing gull/Delaware Bay/94/1995 (H11N2),0
+A/shoveler/Netherlands/18/1999 (H11N9),0
+A/mallard/Interior_Alaska/11BM01009/2011(H12N5),0
+A/mallard/Sweden/86/2003 (H12N5),0
+A/yellow_billed_pintail/Chile/C14830/2016,0
+A/herring_gull/Massachusetts/A00080255/2006(H13N2),1
+A/ring-billed_gull/Massachusetts/13DC30736/2013(H13N8),0
+A/glaucous-winged_gull/Southcentral_Alaska/17MB03606/2017(H13N2),0
+A/mallard/Gurjev/263/1982 (H14N5),0
+A/long-tailed duck/Wisconsin/10OS3912/2010,0
+A/blue-winged_teal/Guatemala/CIP049-H123-13/2014(H14N3),0
+A/shearwater/Australia/2576/1979 (H15N9),0
+A/mallard/Novomychalivka/2-23-12/2010,0
+A/duck/AUS/341/1983(H15N8),0
+A/glaucous-winged_gull/Southcentral_Alaska/11JR02272/2011(H16N3),0
+A/gull/Massachusetts/13WP00539/2013(H16N3),1
+A/shorebird/Delaware/172/2006 (H16N3),1

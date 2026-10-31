@@ -1,0 +1,7 @@
+cell,label,layer,n_valid_cols,rho_h7_h10,p_h7_h10,jaccard_h10,rho_h7_h4,jaccard_h4,rho_h7_h5,jaccard_h5
+label_is_jump_L13,jump,13,566,0.7183,6.45e-91,0.333,0.4198,0.143,0.1625,0.053
+label_is_jump_L17,jump,17,566,0.6311,3.3e-64,0.25,0.3678,0.081,0.3154,0.081
+label_is_jump_L28,jump,28,566,0.6905,2.32e-81,0.29,0.3863,0.111,0.2255,0.053
+label_is_jump_human_L13,jump_human,13,556,0.6829,1.4e-77,0.333,,,0.1762,0.081
+label_is_jump_human_L17,jump_human,17,556,0.6539,3.92e-69,0.176,,,0.3196,0.111
+label_is_jump_human_L28,jump_human,28,556,0.657,5.49e-70,0.29,,,0.2448,0.053

@@ -1,0 +1,20 @@
+method,label,year,auc,ci_lo,ci_hi,p,level
+Probe (L28),jump,2024,0.907,0.825026232186093,0.97265625,0.0,cluster
+Probe (L28),jump_human,2024,0.7442,0.5852272727272727,0.8806818181818181,0.0176,cluster
+Naive identity,jump,2024,0.2747,,,,isolate
+Naive identity,jump,2024,0.4402,,,,cluster
+Probe (L28),jump,2025,0.9715,0.9339378238341969,0.996031746031746,0.0,cluster
+Probe (L28),jump_human,2025,0.9553,0.9093979451751473,0.9904270986745213,0.0,cluster
+Naive identity,jump,2025,0.1703,,,,isolate
+Naive identity,jump,2025,0.7131,,,,cluster
+Probe (L28),jump,2026,0.9921,0.953125,1.0,0.0008,cluster
+Probe (L28),jump_human,2026,1.0,0.9999999999999999,1.0,0.0002,cluster
+Naive identity,jump,2026,0.0461,,,,isolate
+Naive identity,jump,2026,0.4643,,,,cluster
+CNN stage-2,jump,2026,0.8649,,,,isolate
+CNN stage-2,jump,2026,0.8651,,,,cluster
+CNN stage-2,jump_human,2026,0.2293,,,,isolate
+CNN stage-2,jump_human,2026,0.6508,,,,cluster
+VirHostPRED,jump,2024,0.4338,0.20734908136482938,0.6439285714285714,0.7196,cluster
+VirHostPRED,jump,2025,0.2529,0.11110657596371884,0.3977836629001877,0.9914,cluster
+VirHostPRED,jump,2026,0.2069,0.0847457627118644,0.35593220338983056,0.9062,cluster

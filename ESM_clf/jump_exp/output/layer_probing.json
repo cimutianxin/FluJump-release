@@ -1,0 +1,126 @@
+{
+  "layer_0": {
+    "subtype_cv_acc": 0.9514466546112116,
+    "host_cv_acc": 0.8521699819168174
+  },
+  "layer_1": {
+    "subtype_cv_acc": 0.9545207956600361,
+    "host_cv_acc": 0.9449367088607595
+  },
+  "layer_2": {
+    "subtype_cv_acc": 0.9508137432188065,
+    "host_cv_acc": 0.9540687160940325
+  },
+  "layer_3": {
+    "subtype_cv_acc": 0.9476491862567812,
+    "host_cv_acc": 0.9592224231464738
+  },
+  "layer_4": {
+    "subtype_cv_acc": 0.9428571428571428,
+    "host_cv_acc": 0.961121157323689
+  },
+  "layer_5": {
+    "subtype_cv_acc": 0.9420433996383364,
+    "host_cv_acc": 0.9626582278481013
+  },
+  "layer_6": {
+    "subtype_cv_acc": 0.9414104882459313,
+    "host_cv_acc": 0.9628390596745027
+  },
+  "layer_7": {
+    "subtype_cv_acc": 0.9415913200723327,
+    "host_cv_acc": 0.9623869801084991
+  },
+  "layer_8": {
+    "subtype_cv_acc": 0.9407775768535263,
+    "host_cv_acc": 0.9622061482820976
+  },
+  "layer_9": {
+    "subtype_cv_acc": 0.9424050632911393,
+    "host_cv_acc": 0.961754068716094
+  },
+  "layer_10": {
+    "subtype_cv_acc": 0.9430379746835443,
+    "host_cv_acc": 0.9605786618444846
+  },
+  "layer_11": {
+    "subtype_cv_acc": 0.9423146473779385,
+    "host_cv_acc": 0.9595840867992766
+  },
+  "layer_12": {
+    "subtype_cv_acc": 0.9411392405063291,
+    "host_cv_acc": 0.9574141048824593
+  },
+  "layer_13": {
+    "subtype_cv_acc": 0.9422242314647378,
+    "host_cv_acc": 0.9604882459312839
+  },
+  "layer_14": {
+    "subtype_cv_acc": 0.9443037974683545,
+    "host_cv_acc": 0.9590415913200724
+  },
+  "layer_15": {
+    "subtype_cv_acc": 0.9434900542495479,
+    "host_cv_acc": 0.9575949367088608
+  },
+  "layer_16": {
+    "subtype_cv_acc": 0.9432188065099457,
+    "host_cv_acc": 0.9584086799276673
+  },
+  "layer_17": {
+    "subtype_cv_acc": 0.9429475587703435,
+    "host_cv_acc": 0.9554249547920434
+  },
+  "layer_18": {
+    "subtype_cv_acc": 0.944755877034358,
+    "host_cv_acc": 0.952260397830018
+  },
+  "layer_19": {
+    "subtype_cv_acc": 0.9461121157323689,
+    "host_cv_acc": 0.9528933092224231
+  },
+  "layer_20": {
+    "subtype_cv_acc": 0.9467450271247739,
+    "host_cv_acc": 0.9529837251356239
+  },
+  "layer_21": {
+    "subtype_cv_acc": 0.9471971066907776,
+    "host_cv_acc": 0.9547016274864376
+  },
+  "layer_22": {
+    "subtype_cv_acc": 0.9472875226039783,
+    "host_cv_acc": 0.9533453887884268
+  },
+  "layer_23": {
+    "subtype_cv_acc": 0.9458408679927667,
+    "host_cv_acc": 0.9556962025316456
+  },
+  "layer_24": {
+    "subtype_cv_acc": 0.9471971066907776,
+    "host_cv_acc": 0.9534358047016275
+  },
+  "layer_25": {
+    "subtype_cv_acc": 0.9476491862567812,
+    "host_cv_acc": 0.9531645569620253
+  },
+  "layer_26": {
+    "subtype_cv_acc": 0.946383363471971,
+    "host_cv_acc": 0.9545207956600361
+  },
+  "layer_27": {
+    "subtype_cv_acc": 0.9443037974683545,
+    "host_cv_acc": 0.955244122965642
+  },
+  "layer_28": {
+    "subtype_cv_acc": 0.9430379746835443,
+    "host_cv_acc": 0.9564195298372513
+  },
+  "layer_29": {
+    "subtype_cv_acc": 0.9433092224231465,
+    "host_cv_acc": 0.9585895117540687
+  },
+  "layer_30": {
+    "subtype_cv_acc": 0.9477396021699819,
+    "host_cv_acc": 0.9562386980108499
+  }
+}

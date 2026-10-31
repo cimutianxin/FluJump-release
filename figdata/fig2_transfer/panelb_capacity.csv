@@ -1,0 +1,17 @@
+head,label,holdout,transfer_auc,transfer_std,within_dist_auc
+Linear probe,jump,H5,0.835657,0.017529,0.988654
+Linear probe,jump,H7,0.917549,0.022618,0.988654
+Linear probe,jump_human,H5,0.687513,0.102916,0.991591
+Linear probe,jump_human,H7,0.853728,0.060172,0.991591
+MLP head,jump,H5,0.528333,0.108953,0.983707
+MLP head,jump,H7,0.881245,0.037596,0.983707
+MLP head,jump_human,H5,0.682763,0.023217,0.989531
+MLP head,jump_human,H7,0.860064,0.058060,0.989531
+Transformer head,jump,H5,0.597892,0.154031,0.987604
+Transformer head,jump,H7,0.767953,0.011223,0.987604
+Transformer head,jump_human,H5,0.616582,0.073105,0.989464
+Transformer head,jump_human,H7,0.438761,0.093633,0.989464
+LoRA fine-tune,jump,H5,0.466093,,0.968438
+LoRA fine-tune,jump,H7,0.453297,,0.968438
+LoRA fine-tune,jump_human,H5,0.754837,,0.977450
+LoRA fine-tune,jump_human,H7,0.419510,,0.977450

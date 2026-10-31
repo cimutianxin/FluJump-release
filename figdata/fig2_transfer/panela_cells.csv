@@ -1,0 +1,50 @@
+method,label,holdout,seed,selected_layer,test_auc
+ESM-2 linear probe,jump,H5,42,28,0.8491394001363327
+ESM-2 linear probe,jump,H7,42,17,0.9205036301810496
+ESM-2 linear probe,jump_human,H5,42,1,0.48272922579627875
+ESM-2 linear probe,jump_human,H7,42,13,0.8925960014317124
+ESM-2 linear probe,jump,H5,43,28,0.837424089068826
+ESM-2 linear probe,jump,H7,43,17,0.9136632430750078
+ESM-2 linear probe,jump_human,H5,43,11,0.7274683241692566
+ESM-2 linear probe,jump_human,H7,43,13,0.8537564322469983
+ESM-2 linear probe,jump,H5,44,28,0.8530612892406153
+ESM-2 linear probe,jump,H7,44,17,0.9555832192207145
+ESM-2 linear probe,jump_human,H5,44,11,0.7269607706657015
+ESM-2 linear probe,jump_human,H7,44,13,0.874905422446406
+ESM-2 linear probe,jump,H5,45,28,0.8032782255027492
+ESM-2 linear probe,jump,H7,45,17,0.884870848708487
+ESM-2 linear probe,jump_human,H5,45,28,0.7523525594224061
+ESM-2 linear probe,jump_human,H7,45,13,0.9083669459096082
+ESM-2 linear probe,jump,H5,46,28,0.8353844593395261
+ESM-2 linear probe,jump,H7,46,17,0.9131229995427527
+ESM-2 linear probe,jump_human,H5,46,11,0.7480545195008519
+ESM-2 linear probe,jump_human,H7,46,13,0.739016439909297
+CNN (budget-matched),jump,H5,42,,0.3613241308793456
+CNN (budget-matched),jump,H7,42,,0.6402904144839628
+CNN (budget-matched),jump_human,H5,42,,0.27099101229895933
+CNN (budget-matched),jump_human,H7,42,,0.7699033594109527
+CNN (budget-matched),jump,H5,43,,0.4643218623481782
+CNN (budget-matched),jump,H7,43,,0.6307812013694366
+CNN (budget-matched),jump_human,H5,43,,0.7777056794508383
+CNN (budget-matched),jump_human,H7,43,,0.6930703259005145
+CNN (budget-matched),jump,H5,44,,0.3323882951238748
+CNN (budget-matched),jump,H7,44,,0.6894559940246483
+CNN (budget-matched),jump_human,H5,44,,0.6952116453675603
+CNN (budget-matched),jump_human,H7,44,,0.7801317080005604
+CNN (budget-matched),jump,H5,45,,0.22722565338555395
+CNN (budget-matched),jump,H7,45,,0.4481717544448172
+CNN (budget-matched),jump_human,H5,45,,0.5543826559584651
+CNN (budget-matched),jump_human,H7,45,,0.6250904953976626
+CNN (budget-matched),jump,H5,46,,0.344559585492228
+CNN (budget-matched),jump,H7,46,,0.8170438957475996
+CNN (budget-matched),jump_human,H5,46,,0.7465810194778284
+CNN (budget-matched),jump_human,H7,46,,0.738095238095238
+CNN stage-2 logit head,jump_human,H5,42,stage2_logit,0.7430325607064018
+CNN stage-2 logit head,jump_human,H5,43,stage2_logit,0.8182325284883257
+CNN stage-2 logit head,jump_human,H5,44,stage2_logit,0.6952116453675603
+CNN stage-2 logit head,jump_human,H5,45,stage2_logit,0.5842459641437494
+CNN stage-2 logit head,jump_human,H5,46,stage2_logit,0.7723764792558825
+Naive identity,jump,H5,,,0.3249
+Naive identity,jump_human,H5,,,0.3364
+Naive identity,jump,H7,,,0.2375
+Naive identity,jump_human,H7,,,0.1576

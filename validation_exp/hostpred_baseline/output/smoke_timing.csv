@@ -1,0 +1,2 @@
+batch_idx,n_seq,http_status,wall_seconds
+0,20,200,14.467448730021715

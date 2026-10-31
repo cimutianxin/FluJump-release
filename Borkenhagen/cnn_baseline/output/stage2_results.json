@@ -1,0 +1,28 @@
+{
+  "label_is_jump": {
+    "label": "label_is_jump",
+    "best_val_auc": 0.9935847431459542,
+    "best_epoch": 48,
+    "test": {
+      "loss": 0.07325124378297843,
+      "auc": 0.9940123058523613,
+      "accuracy": 0.971764705882353,
+      "precision": 0.7703703703703704,
+      "recall": 0.9541284403669725,
+      "f1": 0.8524590163934426
+    }
+  },
+  "label_is_jump_human": {
+    "label": "label_is_jump_human",
+    "best_val_auc": 0.994214404317144,
+    "best_epoch": 42,
+    "test": {
+      "loss": 0.060280586497529466,
+      "auc": 0.995931914893617,
+      "accuracy": 0.9764705882352941,
+      "precision": 0.7734375,
+      "recall": 0.99,
+      "f1": 0.868421052631579
+    }
+  }
+}

@@ -1,0 +1,598 @@
+{
+  "eval_size": {
+    "H15": {
+      "n_isolates": 22,
+      "n_clusters": 6,
+      "n_pos_clusters_jump": 0,
+      "n_pos_clusters_jump_human": 0
+    },
+    "H14": {
+      "n_isolates": 67,
+      "n_clusters": 17,
+      "n_pos_clusters_jump": 0,
+      "n_pos_clusters_jump_human": 0
+    }
+  },
+  "profile": {
+    "label_is_jump": {
+      "H15": {
+        "0": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "1": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "2": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "3": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "4": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "5": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "6": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "7": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "8": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "9": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "10": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "11": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "12": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "13": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "14": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "15": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "16": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "17": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "18": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "19": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "20": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "21": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "22": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "23": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "24": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "25": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "26": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "27": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "28": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "29": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "30": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        }
+      },
+      "H14": {
+        "0": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "1": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "2": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "3": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "4": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "5": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "6": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "7": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "8": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "9": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "10": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "11": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "12": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "13": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "14": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "15": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "16": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "17": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "18": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "19": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "20": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "21": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "22": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "23": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "24": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "25": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "26": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "27": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "28": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "29": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "30": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        }
+      }
+    },
+    "label_is_jump_human": {
+      "H15": {
+        "0": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "1": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "2": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "3": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "4": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "5": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "6": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "7": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "8": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "9": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "10": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "11": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "12": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "13": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "14": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "15": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "16": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "17": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "18": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "19": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "20": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "21": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "22": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "23": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "24": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "25": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "26": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "27": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "28": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "29": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "30": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        }
+      },
+      "H14": {
+        "0": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "1": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "2": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "3": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "4": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "5": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "6": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "7": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "8": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "9": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "10": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "11": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "12": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "13": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "14": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "15": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "16": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "17": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "18": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "19": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "20": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "21": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "22": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "23": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "24": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "25": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "26": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "27": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "28": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "29": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        },
+        "30": {
+          "isolate_auc": null,
+          "cluster_auc": null
+        }
+      }
+    }
+  },
+  "geometry": {
+    "label_is_jump": {
+      "H15": {
+        "17": {
+          "proj_pos_mean": null,
+          "proj_neg_mean": -10.028686663546196,
+          "frac_all_negative": 1.0,
+          "frac_pos_negative": null
+        },
+        "28": {
+          "proj_pos_mean": null,
+          "proj_neg_mean": -32.926214021559915,
+          "frac_all_negative": 1.0,
+          "frac_pos_negative": null
+        }
+      },
+      "H14": {
+        "17": {
+          "proj_pos_mean": null,
+          "proj_neg_mean": -27.61944640930411,
+          "frac_all_negative": 1.0,
+          "frac_pos_negative": null
+        },
+        "28": {
+          "proj_pos_mean": null,
+          "proj_neg_mean": -14.791197196055263,
+          "frac_all_negative": 1.0,
+          "frac_pos_negative": null
+        }
+      }
+    },
+    "label_is_jump_human": {
+      "H15": {
+        "13": {
+          "proj_pos_mean": null,
+          "proj_neg_mean": -23.827055941597926,
+          "frac_all_negative": 1.0,
+          "frac_pos_negative": null
+        },
+        "28": {
+          "proj_pos_mean": null,
+          "proj_neg_mean": -55.11280330742989,
+          "frac_all_negative": 1.0,
+          "frac_pos_negative": null
+        }
+      },
+      "H14": {
+        "13": {
+          "proj_pos_mean": null,
+          "proj_neg_mean": -38.990004824553345,
+          "frac_all_negative": 1.0,
+          "frac_pos_negative": null
+        },
+        "28": {
+          "proj_pos_mean": null,
+          "proj_neg_mean": -34.94650945844265,
+          "frac_all_negative": 1.0,
+          "frac_pos_negative": null
+        }
+      }
+    }
+  },
+  "sign_test": {
+    "H15": {
+      "label_is_jump": null,
+      "label_is_jump_human": null
+    },
+    "H14": {
+      "label_is_jump": null,
+      "label_is_jump_human": null
+    }
+  }
+}

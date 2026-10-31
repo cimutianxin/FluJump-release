@@ -1,0 +1,403 @@
+strain_name,ha_subtype,binding_label,split
+cfg_001,H9,0,train
+cfg_002,H6,0,train
+cfg_005,H12,0,train
+cfg_006,H15,0,train
+cfg_015,H3,0,train
+cfg_016,H3,0,test
+cfg_019,H7,0,train
+cfg_020,H4,0,train
+cfg_021,H7,0,train
+cfg_022,H8,0,train
+cfg_023,H10,0,train
+cfg_024,H11,0,train
+cfg_025,H16,0,train
+cfg_056,H7,0,train
+cfg_033,H7,0,train
+cfg_028,H7,1,train
+cfg_030,H7,0,train
+cfg_031,H6,0,train
+cfg_057,H7,0,train
+cfg_035,H7,0,test
+cfg_036,H7,0,test
+cfg_037,H7,0,train
+cfg_038,H7,0,train
+cfg_039,H7,0,train
+cfg_040,H10,0,train
+cfg_051,H7,0,train
+cfg_052,H7,0,train
+cfg_053,H7,0,train
+cfg_054,H7,0,train
+cfg_055,H7,0,train
+cfg_061,H7,0,train
+cfg_074,H5,0,train
+cfg_075,H5,0,train
+cfg_076,H5,0,test
+cfg_078,H5,0,train
+cfg_085,H5,0,train
+cfg_100,H13,0,train
+cfg_101,H5,0,train
+cfg_102,H1,0,train
+cfg_103,H3,0,train
+cfg_104,H16,1,train
+cfg_105,H5,0,train
+cfg_106,H5,0,train
+cfg_108,H5,0,train
+cfg_109,H5,0,train
+cfg_111,H16,0,train
+cfg_214,H1,1,train
+cfg_239,H1,1,train
+cfg_240,H1,0,train
+cfg_241,H5,0,train
+cfg_242,H1,1,train
+cfg_243,H1,1,train
+cfg_256,H3,0,train
+cfg_257,H1,0,train
+cfg_259,H3,0,train
+cfg_260,H3,0,test
+cfg_261,H2,0,test
+cfg_262,H1,1,train
+cfg_338,H1,1,train
+cfg_265,H5,0,train
+cfg_267,H9,1,train
+cfg_268,H1,1,test
+cfg_269,H3,1,train
+cfg_270,H1,1,test
+cfg_288,H1,1,test
+cfg_289,H7,0,train
+cfg_291,H11,0,test
+cfg_346,H1,0,train
+cfg_351,H4,0,train
+cfg_352,H3,0,train
+cfg_350,H5,1,train
+cfg_354,H10,0,train
+cfg_355,H14,0,train
+cfg_373,H1,1,train
+cfg_374,H5,0,train
+cfg_375,H2,0,train
+cfg_419,H1,0,train
+cfg_410,H1,0,train
+cfg_411,H1,0,train
+cfg_413,H1,0,train
+cfg_414,H1,0,train
+cfg_415,H1,0,train
+cfg_417,H1,0,train
+cfg_418,H1,0,train
+cfg_458,H1,1,train
+cfg_421,H1,0,train
+cfg_454,H1,0,test
+cfg_457,H1,0,test
+cfg_422,H1,0,train
+cfg_423,H1,0,train
+cfg_409,H1,0,train
+cfg_431,H2,1,train
+cfg_183,H9,0,train
+cfg_552,H5,0,train
+cfg_439,H2,0,train
+cfg_119,H6,0,test
+cfg_450,H2,1,train
+cfg_452,H2,1,train
+cfg_462,H1,0,train
+cfg_474,H5,0,train
+cfg_471,H5,0,train
+cfg_472,H5,0,train
+cfg_473,H5,0,train
+cfg_480,H5,0,test
+cfg_488,H5,0,test
+cfg_490,H5,0,train
+cfg_496,H5,0,train
+cfg_497,H5,0,train
+cfg_564,H3,1,train
+cfg_519,H5,0,train
+cfg_521,H1,0,train
+cfg_527,H1,1,train
+cfg_528,H3,1,train
+cfg_529,H5,0,train
+cfg_530,H5,0,test
+cfg_082,H3,1,train
+cfg_532,H1,1,train
+cfg_536,H5,0,train
+cfg_537,H5,0,train
+cfg_538,H1,1,train
+cfg_539,H1,0,train
+cfg_540,H5,0,train
+cfg_543,H5,0,train
+cfg_544,H5,0,train
+cfg_545,H1,0,train
+cfg_008,H3,0,train
+cfg_010,H3,1,train
+cfg_012,H3,0,train
+cfg_014,H3,0,train
+cfg_041,H3,0,train
+cfg_042,H3,0,train
+cfg_043,H3,0,train
+cfg_044,H3,0,train
+cfg_045,H1,0,train
+cfg_046,H3,1,train
+cfg_047,H7,0,train
+cfg_048,H7,0,test
+cfg_049,H7,0,train
+cfg_062,H6,0,train
+cfg_066,H6,0,train
+cfg_065,H6,1,train
+cfg_072,H6,0,train
+cfg_096,H7,0,train
+cfg_115,H3,1,train
+cfg_154,H3,0,train
+cfg_140,H3,0,train
+cfg_121,H9,0,train
+cfg_129,H1,1,train
+cfg_131,H1,1,train
+cfg_137,H1,1,train
+cfg_143,H3,1,train
+cfg_147,H3,0,train
+cfg_149,H3,1,train
+cfg_157,H3,1,train
+cfg_159,H3,1,train
+cfg_160,H3,1,train
+cfg_172,H3,1,train
+cfg_175,H3,1,train
+cfg_176,H3,1,train
+cfg_177,H3,1,train
+cfg_178,H3,1,test
+cfg_192,H1,0,train
+cfg_185,H7,0,train
+cfg_221,H10,0,train
+cfg_222,H1,1,train
+cfg_223,H1,0,train
+cfg_228,H1,1,train
+cfg_231,H1,1,train
+cfg_233,H5,0,test
+cfg_234,H3,1,train
+cfg_235,H10,0,train
+cfg_237,H1,0,train
+cfg_245,H3,1,train
+cfg_246,H3,1,test
+cfg_247,H3,0,train
+cfg_248,H3,1,train
+cfg_339,H1,1,train
+cfg_296,H1,0,train
+cfg_300,H1,0,train
+cfg_324,H1,1,train
+cfg_310,H3,1,train
+cfg_314,H5,0,train
+cfg_316,H1,1,train
+cfg_322,H3,0,train
+cfg_328,H1,1,train
+cfg_332,H1,1,train
+cfg_406,H1,1,train
+cfg_407,H3,0,train
+cfg_499,H3,1,train
+cfg_133,H1,1,train
+cfg_196,H9,0,train
+cfg_276,H5,0,train
+cfg_277,H5,0,train
+cfg_278,H5,0,train
+cfg_279,H5,1,train
+cfg_280,H5,0,train
+cfg_281,H5,0,train
+cfg_282,H5,1,train
+cfg_283,H5,0,train
+cfg_284,H5,0,train
+cfg_285,H5,0,train
+cfg_258,H3,0,train
+cfg_388,H4,0,train
+cfg_383,H3,1,train
+cfg_384,H3,1,train
+cfg_389,H1,0,train
+cfg_382,H3,1,test
+cfg_213,H1,0,train
+cfg_274,H1,0,test
+A/gull/Massachusetts/14WP00016/2014(H4N4),H4,0,train
+A/yellow-billed teal/Chile/C25814/2017 (H7N6),H7,0,test
+A/mallard duck/Ohio/16OS0869/2016 (H7N3),H7,0,train
+A/glaucous-winged_gull/Southcentral_Alaska/16MB02941/2016(H16N3),H16,0,train
+A/Brisbane/59/2007 (H1N1),H1,1,test
+A/mallard/Netherlands/1/2014 (H10N7),H10,0,train
+A/duck/Interior_Alaska/11PG00459/2011(H2N3),H2,0,train
+A/duck/England/1956 (H11N6),H11,0,train
+A/mallard/Astrakhan/263/1982 (H14N5),H14,0,train
+A/swine/Ohio/16TOSU5421/2016 (H1N2),H1,1,train
+A/ruddy turnstone/Delaware/892/2002(H6N1),H6,0,train
+A/mallard/Republic of Georgia/4/2010 (H1N1),H1,0,train
+A/duck/Czechoslovakia/1956 (H4N6),H4,0,test
+A/turkey/Massachusetts/3740/1965 (H6N2),H6,0,train
+A/swine/Ohio/19TOSU4462/2019(H1N2),H1,1,train
+A/lesser black-backed gull/Iceland/145/2010 (H11N2),H11,0,train
+A/yellow_billed_teal/Chile/C8619/2016,H11,0,train
+A/mallard_duck/Maryland/16OS2559/2016,H12,0,train
+A/RUDDY TURNSTONE/DE/328/2018(H12N5),H12,0,test
+A/American white pelican/Minnesota/Sg-0611/2008,H13,0,train
+A/herring_gull/Massachusetts/A00648685/2008(H13N2),H13,0,train
+A/ring-billed_gull/Massachusetts/12DC00060/2012(H13N6),H13,0,test
+A/blue_winged_teal/Texas/UGAI15_6890/2015,H14,0,train
+A/mallard/Maine/A00198555/2007(H1N1),H1,0,train
+A/mallard/Interior_Alaska/12ML00957/2014(H1N1),H1,0,train
+A/American_Black_Duck/Maine/A00090256/2007(H3N2),H3,0,test
+A/long-tailed duck/Wisconsin/16OS4632/2016 (H3N8),H3,0,train
+A/mallard/Interior_Alaska/9BM12326/2009(H3N8),H3,0,train
+A/northern_pintail/Interior_Alaska/10BM07040/2010(H4N6),H4,0,train
+A/American_green-winged_teal/Alaska/19TL00078/2019(H4N6),H4,0,train
+A/common_eider/Massachusetts/A00165665/2006(H10N2),H10,0,train
+A/swine/Kansas/2014-102/2014(H3N2),H3,1,train
+A/HONG KONG/1/1968(H3N2),H3,0,train
+A/yellow-billed pintail/Chile/6/2013(H4N6),H4,0,test
+A/Environment/Maryland/17OS3341/2017 (H10N3),H10,0,test
+A/kelp gull/Chile/C27733/2017 (H13N8),H13,0,train
+A/kelp gull/Chile/C8939/2016 (H13N2),H13,0,train
+A/environment/Chile/C20182/2016 (H13N9),H13,0,train
+A/Blue-winged Teal/Ohio/18OS1695/2018(H14N5),H14,0,train
+A/northern shoveler/Mississippi/12OS456/2012,H14,0,train
+A/red knot/Delaware/541/1988 (H4N6),H4,0,train
+A/blue-winged teal/Illinois/10OS1563/2010 (H4N6),H4,0,train
+A/mallard/Alberta/203/1992 (H6N5),H6,0,test
+A/Fort Monmouth/1/1947 (H1N1),H1,1,train
+A/blue-winged teal/Illinois/10OS1546/2010 (H3N6),H3,0,train
+A/blue-winged teal/Iowa/10OS2411/2010 (H3N8),H3,0,train
+A/ruddy turnstone/Virginia/2297/1988 (H9N9),H9,0,test
+A/shorebird/Delaware Bay/31/1996 (H9N7),H9,0,train
+A/shorebird/Delaware Bay/102/2000 (H10N4),H10,0,train
+A/shorebird/Delaware Bay/338/2009 (H10N1),H10,0,train
+A/mallard/Wisconsin/4218/2009 (H12N5),H12,0,train
+A/northern pintail/Missouri/319/2009 (H12N5),H12,0,train
+A/gull/Maryland/704/1977 (H13N6),H13,0,train
+A/mallard/Interior_Alaska/10BM07066/2010(H7N3),H7,0,train
+A/glaucous gull/Alaska/44198-027/2006,H16,0,train
+A/American_green-winged_teal/Interior_Alaska/9BM12356/2009(H3N8),H3,0,test
+A/swine/Mexico/SG1444/2011 (H3N2),H3,1,train
+A/Georgia/F32551/2012 (H1N1)pdm09,H1,1,train
+A/Tennessee/F5029/2014(H1N1),H1,1,train
+A/human/Taipei/0032/2016 (H1N1),H1,1,train
+A/human/Rochester/0090/2013 (H3N2),H3,0,train
+A/human/Baltimore/0244/2017 (H3N2),H3,0,train
+A/swine/Guangdong/K6/2010,H6,0,train
+A/VICTORIA/210/2009(H3N2),H3,1,train
+A/Uruguay/716/2007 (H3N2),H3,1,train
+A/Canine/IL/41915/2015,H3,0,train
+A/Common Goldeneye/Wisconsin/18OS2949/2018 (H11N9),H11,0,train
+A/duck/Ukraine/1963 (H3N8),H3,0,train
+A/Sydney/5/1997 (H3N2),H3,1,train
+A/northern_pintail/Alaska/19TL00162/2019(H3N8),H3,0,train
+A/blue-winged teal/Wisconsin/402/1983 (H4N6),H4,0,train
+A/glaucous-winged_gull/Southcentral_Alaska/17MB01587_1/2017(H4N7),H4,0,train
+A/mallard/Interior_Alaska/12ML00678/2013(H12N5),H12,0,train
+A/glaucous-winged_gull/Southcentral_Alaska/15MB01429/2015(H13N6),H13,0,test
+A/glaucous-winged_gull/Southcentral_Alaska/15MB01632/2015(H13N6),H13,0,train
+A/glaucous-winged_gull/Southcentral_Alaska/18MB00688/2018(H13N6),H13,0,train
+A/glaucous-winged_gull/Southcentral_Alaska/13MB02558/2013(H16N3),H16,1,test
+A/American_green-winged_teal/Minto_Flats_Alaska/19TL00405/2019(H1N1),H1,0,train
+A/mallard/Wisconsin/455/1979 (H10N7),H10,0,test
+A/duck/Jiangsu/k1203/2010(H5N8),H5,0,train
+A/American green-winged teal/California/HKWF609/2007(H5N2),H5,0,train
+A/human/Baltimore/R0252/2018 (H1N1),H1,1,train
+A/environment/South Carolina/UGAI17-4979/2017 (H2N5),H2,0,train
+A/ruddy turnstone/New Jersey/UGAI14-1399/2014 (H6N1),H6,0,train
+A/ruddy turnstone/New Jersey/UGAI16-2139/2016 (H6N5),H6,0,train
+A/northern pintail duck/Alaska/UGAI16-3997/2016 (H8N4),H8,0,train
+A/blue-winged teal/Louisiana/UGAI14-430/2014 (H10N3),H10,0,train
+A/ruddy turnstone/New Jersey/UGAI16-1299/2016 (H10N9),H10,0,train
+A/ruddy turnstone/New Jersey/UGAI16-1474/2016 (H11N9),H11,0,train
+A/ruddy turnstone/New Jersey/UGAI14-1147/2014 (H12N4),H12,0,train
+A/environment/South Carolina/UGAI18-1316/2018(H12N5),H12,0,train
+A/American green-winged teal/Mississippi/300/2010 (H11N9),H11,0,train
+A/laughing gull/Delaware Bay/2718/1987 (H9N5),H9,0,train
+A/shorebird/Delaware Bay/216/1999 (H11N2),H11,0,train
+A/mallard/Interior_Alaska/8MP0547/2008(H8N4),H8,0,train
+A/mallard/Interior_Alaska/8MP0689/2008(H8N4),H8,0,train
+A/kelp gull/Chile/C10791/2016 (H16N3),H16,1,train
+A/glaucous-winged_gull/Southcentral_Alaska/12NH01285/2012(H16N3),H1,0,test
+A/glaucous-winged_gull/Southcentral_Alaska/11JR02474/2011(H13N6),H13,0,train
+A/mallard/Southcentral_Alaska/12ML01615/2014(H2N1),H2,0,train
+A/ruddy turnstone/New Jersey/UGAI15-3254/2015 (H7N3),H7,0,train
+A/ruddy turnstone/New Jersey/UGAI16-2120/2016(H6N8),H6,0,train
+A/mallard/Sweden/50/2002(H3N8)Ê,H3,0,train
+A/mallard/Netherlands/1/1999 (H4N6),H4,0,train
+A/NWS/1933 (H1N1),H1,0,train
+A/blue-winged teal/Alberta/346/2007 (H4N3),H4,0,train
+A/turkey/Wisconsin/1/1966 (H9N2),H9,0,train
+A/mallard/Illinois/10OS4334/2010 (H10N7),H10,0,train
+A/mallard/Alberta/125/1999 (H11N6),H11,0,train
+A/brown_hooded_gull/Chile/C8851/2016,H16,1,train
+A/ruddy turnstone/New Jersey/UGAI16-1048/2016 (H16N3),H16,0,train
+A/northern_pintail/Interior_Alaska/6MP0792/2006(H2N3),H2,0,test
+A/blue-winged teal/Missouri/15OS5111/2015(H2N9),H2,0,train
+A/mallard duck/Ohio/16OS0672/2016 (H8N4),H8,0,test
+A/mallard/Sweden/24/2002 (H8N4),H8,0,train
+"A/common teal/Netherlands/10/2000(H1N1),Ê",H1,0,train
+A/mallard/Sweden/81/2002(H6N1)Ê,H6,0,train
+A/ruddy turnstone/New Jersey/UGAI16-1492/2016(H11N5),H11,0,train
+A/Common Goldeneye/Wisconsin/17OS5750/2017 (H2N3),H2,0,train
+A/Anhui/1/2013,H7,0,train
+A/Netherlands/219/2003(H7N7),H7,0,train
+A/chicken/VietNam/NCVD-016/2008)H5N1),H5,0,train
+A/turkey/Italy/4602/1999(H7N1),H7,0,train
+A/Australian shelduck/Western Australia/1756/1983,H15,0,train
+A/China/0428HA/2021(H10N3),H10,0,train
+A/China/CSKFQ-22-5/2022(H3N8),H3,0,train
+A/yunnan/0127/2015(H5N6),H5,0,train
+A/herring gull/DE/703/1988,H2,0,train
+A/Egypt/2321-NAMRU3/2007(H5N1),H5,0,train
+A/black-headed gull/Netherlands/1/2000,H13,0,train
+A/Japan/305/1957,H2,0,train
+A/barnswallow/Hong Kong/D10-1161/2010(H5N1),H5,0,train
+A/chicken/Italy/22A/1998(H5N9),H5,0,train
+A/pintail duck/Alberta/114/1979,H8,0,train
+A/Hong Kong/35820/2009,H9,1,train
+A/environment/Jiangxi/28/2009,H11,0,test
+A/bar headed goose/Mongolia/143/2005,H12,0,train
+A/Canada/720/2005,H2,0,train
+A/duck/Yangzhou/906/2002,H11,0,train
+A/Hong Kong/3239/2008,H9,0,train
+A/Fujiansiming/19/2021H9N2),H9,1,train
+A/black headed gull/Sweden/1/1999 (H13N6),H13,0,train
+A/sandpiper/Southcentral_Alaska/16MB01220/2016(H5N2),H5,0,train
+A/sandpiper/Southcentral_Alaska/16MB01156/2016(H5N2),H5,0,train
+A/duck/NZL/76/1984(H9N1),H9,0,train
+A/swine/Jamesburg/1/1942 (H1N1),H1,1,train
+A/TAIWAN/1/1986(H1N1),H1,1,train
+A/mallard duck/Chile/C4079/2015 (H1N1),H1,0,train
+A/American_green-winged_teal/Interior_Alaska/11BM03165/2011(H2N9),H2,0,train
+A/mallard/Netherlands/5/1999(H2N9)Ê,H2,0,train
+A/swine/Missouri/4296424/2006(H2N3),H2,1,train
+A/Philippines/2/1982 (H3N2),H3,1,train
+A/American_green-winged_teal/Alaska/19TL00145/2019(H3N8),H3,0,train
+A/camel/Mongolia/335/2012 (H3N8),H3,0,train
+A/swine/Missouri/A01727926/2015(H4N6),H4,1,train
+A/quail/California/D113023808/2012,H4,0,train
+A/king eider/Alaska/44068-67/2006(H4N7),H4,0,train
+A/yellow-billed teal/Chile/C24042/2017 (H5N3),H5,0,train
+A/chicken/Texas/167280-4/2002(H5N3),H5,0,train
+A/chicken/NL/FAV-0033/2021,H5,0,test
+A/goose/Interior_Alaska/11PG00149/2011(H6N1),H6,0,train
+A/duck/Eastern China/11/2009(H6N6),H6,0,train
+A/shearwater/Australia/1/1973 (H6N5),H6,0,train
+A/mallard/Southcentral_Alaska/15ML00267/2015(H7N3),H7,0,train
+A/mallard/Netherlands/12/2000 (H7N3),H7,0,train
+A/feline/New York/WVDL-14/2016(H7N2),H7,0,train
+A/northern_pintail/Interior_Alaska/9BM11643/2009(H8N4),H8,0,train
+A/mallard duck/Ohio/16OS0841/2016 (H8N4),H8,0,train
+A/turkey/Ontario/6118/1968 (H8N4),H8,0,train
+A/gull/Massachusetts/13JR00943/2013(H9N1),H9,0,train
+A/guinea fowl/Hong Kong/WF10/1999 (H9N2),H9,1,train
+A/shorebird/Delaware Bay/127/2003 (H9N2),H9,0,train
+A/seal/Netherlands/P14-221/2014 (H10N7),H10,0,train
+A/green-winged_teal/Southcentral_Alaska/18MB01702/2018(H10N7),H10,0,train
+A/chicken/Germany/N/1949 (H10N7),H10,0,train
+A/least_sandpiper/Southcentral_Alaska/18MB01147/2018(H11N9),H11,0,train
+A/laughing gull/Delaware Bay/94/1995 (H11N2),H11,0,train
+A/shoveler/Netherlands/18/1999 (H11N9),H11,0,train
+A/mallard/Interior_Alaska/11BM01009/2011(H12N5),H12,0,train
+A/mallard/Sweden/86/2003 (H12N5),H12,0,train
+A/yellow_billed_pintail/Chile/C14830/2016,H12,0,train
+A/herring_gull/Massachusetts/A00080255/2006(H13N2),H13,1,train
+A/ring-billed_gull/Massachusetts/13DC30736/2013(H13N8),H13,0,train
+A/glaucous-winged_gull/Southcentral_Alaska/17MB03606/2017(H13N2),H13,0,train
+A/mallard/Gurjev/263/1982 (H14N5),H14,0,train
+A/long-tailed duck/Wisconsin/10OS3912/2010,H14,0,test
+A/blue-winged_teal/Guatemala/CIP049-H123-13/2014(H14N3),H12,0,train
+A/shearwater/Australia/2576/1979 (H15N9),H15,0,train
+A/mallard/Novomychalivka/2-23-12/2010,H15,0,test
+A/duck/AUS/341/1983(H15N8),H15,0,train
+A/glaucous-winged_gull/Southcentral_Alaska/11JR02272/2011(H16N3),H16,0,test
+A/gull/Massachusetts/13WP00539/2013(H16N3),H16,1,train
+A/shorebird/Delaware/172/2006 (H16N3),H16,1,train

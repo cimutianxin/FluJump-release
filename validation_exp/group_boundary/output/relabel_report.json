@@ -1,0 +1,396 @@
+{
+  "H10": {
+    "raw_repair": {
+      "UEF72482": [
+        "environmental",
+        "avian"
+      ],
+      "UEF72446": [
+        "environmental",
+        "avian"
+      ],
+      "UEF70183": [
+        "environmental",
+        "avian"
+      ],
+      "UEF69879": [
+        "environmental",
+        "avian"
+      ],
+      "AKM14062": [
+        "feline",
+        "unknown"
+      ],
+      "AKM13954": [
+        "feline",
+        "unknown"
+      ],
+      "AGU01967": [
+        "avian",
+        "unknown"
+      ],
+      "AGU01953": [
+        "avian",
+        "unknown"
+      ],
+      "AEA04323": [
+        "environmental",
+        "unknown"
+      ]
+    },
+    "n_host_category_changed": 8,
+    "host_category_changes": {
+      "UEF72482": [
+        "environmental",
+        "avian"
+      ],
+      "UEF72446": [
+        "environmental",
+        "avian"
+      ],
+      "UEF70183": [
+        "environmental",
+        "avian"
+      ],
+      "UEF69879": [
+        "environmental",
+        "avian"
+      ],
+      "AKM13954": [
+        "feline",
+        "unknown"
+      ],
+      "AGU01967": [
+        "avian",
+        "unknown"
+      ],
+      "AGU01953": [
+        "avian",
+        "unknown"
+      ],
+      "AEA04323": [
+        "environmental",
+        "unknown"
+      ]
+    },
+    "pos_cluster_counts": {
+      "label_is_jump": {
+        "old": 13,
+        "new": 11
+      },
+      "label_is_jump_human": {
+        "old": 2,
+        "new": 2
+      }
+    },
+    "flipped_clusters": [
+      {
+        "cluster_id": "H10_263",
+        "col": "label_is_jump",
+        "old": 1,
+        "new": 0,
+        "hosts_old": "avian|environmental",
+        "hosts_new": "avian"
+      },
+      {
+        "cluster_id": "H10_64",
+        "col": "label_is_jump",
+        "old": 1,
+        "new": 0,
+        "hosts_old": "avian|environmental",
+        "hosts_new": "avian"
+      }
+    ]
+  },
+  "H4": {
+    "raw_repair": {
+      "YAF83155": [
+        "environmental",
+        "unknown"
+      ],
+      "WYA90359": [
+        "environmental",
+        "avian"
+      ],
+      "UEP57948": [
+        "environmental",
+        "avian"
+      ],
+      "UEF72398": [
+        "environmental",
+        "avian"
+      ],
+      "UEF72350": [
+        "environmental",
+        "avian"
+      ],
+      "UEF72338": [
+        "environmental",
+        "avian"
+      ],
+      "UEF72314": [
+        "environmental",
+        "avian"
+      ],
+      "UEF72254": [
+        "environmental",
+        "avian"
+      ],
+      "UEF72026": [
+        "environmental",
+        "avian"
+      ],
+      "UEF71954": [
+        "environmental",
+        "avian"
+      ],
+      "UEF71942": [
+        "environmental",
+        "avian"
+      ],
+      "UEF71918": [
+        "environmental",
+        "avian"
+      ],
+      "UEF71834": [
+        "environmental",
+        "avian"
+      ],
+      "UEF70431": [
+        "avian",
+        "unknown"
+      ],
+      "UEF70089": [
+        "environmental",
+        "avian"
+      ],
+      "UEF70040": [
+        "environmental",
+        "avian"
+      ],
+      "UEF69843": [
+        "environmental",
+        "avian"
+      ],
+      "QTW94631": [
+        "environmental",
+        "unknown"
+      ],
+      "QTW94549": [
+        "environmental",
+        "unknown"
+      ],
+      "QTW93078": [
+        "environmental",
+        "unknown"
+      ],
+      "QTW93102": [
+        "environmental",
+        "unknown"
+      ],
+      "QTW92528": [
+        "environmental",
+        "unknown"
+      ],
+      "AGU01961": [
+        "avian",
+        "unknown"
+      ],
+      "AGU01959": [
+        "avian",
+        "unknown"
+      ],
+      "AGU01956": [
+        "avian",
+        "unknown"
+      ],
+      "AGU01934": [
+        "avian",
+        "unknown"
+      ],
+      "AGU01929": [
+        "avian",
+        "unknown"
+      ]
+    },
+    "n_host_category_changed": 27,
+    "host_category_changes": {
+      "WYA90359": [
+        "environmental",
+        "avian"
+      ],
+      "UEP57948": [
+        "environmental",
+        "avian"
+      ],
+      "UEF72398": [
+        "environmental",
+        "avian"
+      ],
+      "UEF72350": [
+        "environmental",
+        "avian"
+      ],
+      "UEF72338": [
+        "environmental",
+        "avian"
+      ],
+      "UEF72314": [
+        "environmental",
+        "avian"
+      ],
+      "UEF72254": [
+        "environmental",
+        "avian"
+      ],
+      "UEF72026": [
+        "environmental",
+        "avian"
+      ],
+      "UEF71954": [
+        "environmental",
+        "avian"
+      ],
+      "UEF71942": [
+        "environmental",
+        "avian"
+      ],
+      "UEF71918": [
+        "environmental",
+        "avian"
+      ],
+      "UEF71834": [
+        "environmental",
+        "avian"
+      ],
+      "UEF70431": [
+        "avian",
+        "unknown"
+      ],
+      "UEF70089": [
+        "environmental",
+        "avian"
+      ],
+      "UEF70040": [
+        "environmental",
+        "avian"
+      ],
+      "UEF69843": [
+        "environmental",
+        "avian"
+      ],
+      "QTW94631": [
+        "environmental",
+        "avian"
+      ],
+      "QTW94549": [
+        "environmental",
+        "avian"
+      ],
+      "QTW93078": [
+        "environmental",
+        "avian"
+      ],
+      "QTW93102": [
+        "environmental",
+        "avian"
+      ],
+      "QTW92528": [
+        "environmental",
+        "avian"
+      ],
+      "AGU01961": [
+        "avian",
+        "unknown"
+      ],
+      "AGU01959": [
+        "avian",
+        "unknown"
+      ],
+      "AGU01956": [
+        "avian",
+        "unknown"
+      ],
+      "AGU01934": [
+        "avian",
+        "unknown"
+      ],
+      "AGU01929": [
+        "avian",
+        "unknown"
+      ],
+      "ADM80391": [
+        "environmental",
+        "unknown"
+      ]
+    },
+    "pos_cluster_counts": {
+      "label_is_jump": {
+        "old": 25,
+        "new": 18
+      },
+      "label_is_jump_human": {
+        "old": 0,
+        "new": 0
+      }
+    },
+    "flipped_clusters": [
+      {
+        "cluster_id": "H4_106",
+        "col": "label_is_jump",
+        "old": 1,
+        "new": 0,
+        "hosts_old": "avian|environmental",
+        "hosts_new": "avian"
+      },
+      {
+        "cluster_id": "H4_108",
+        "col": "label_is_jump",
+        "old": 1,
+        "new": 0,
+        "hosts_old": "avian|environmental",
+        "hosts_new": "avian"
+      },
+      {
+        "cluster_id": "H4_24",
+        "col": "label_is_jump",
+        "old": 1,
+        "new": 0,
+        "hosts_old": "avian|environmental",
+        "hosts_new": "avian"
+      },
+      {
+        "cluster_id": "H4_25",
+        "col": "label_is_jump",
+        "old": 1,
+        "new": 0,
+        "hosts_old": "avian|environmental",
+        "hosts_new": "avian"
+      },
+      {
+        "cluster_id": "H4_45",
+        "col": "label_is_jump",
+        "old": 1,
+        "new": 0,
+        "hosts_old": "avian|environmental",
+        "hosts_new": "avian"
+      },
+      {
+        "cluster_id": "H4_71",
+        "col": "label_is_jump",
+        "old": 1,
+        "new": 0,
+        "hosts_old": "avian|environmental",
+        "hosts_new": "avian"
+      },
+      {
+        "cluster_id": "H4_97",
+        "col": "label_is_jump",
+        "old": 1,
+        "new": 0,
+        "hosts_old": "avian|environmental",
+        "hosts_new": "avian"
+      }
+    ]
+  }
+}

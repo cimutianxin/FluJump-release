@@ -1,0 +1,354 @@
+{
+  "label_is_jump": {
+    "real": {
+      "L13": {
+        "fit_train_auc": 0.9978776247459924,
+        "best_C": 1.0,
+        "real_train_auc": 0.9978776247459924,
+        "real_val_auc": 0.9836388604488648,
+        "real_test_auc": 0.989590381922042,
+        "real_h5_holdout_auc": 0.24832939232402013,
+        "real_h7_holdout_auc": 0.7571275946275946
+      },
+      "L17": {
+        "fit_train_auc": 0.9952839689349059,
+        "best_C": 1.0,
+        "real_train_auc": 0.9952839689349059,
+        "real_val_auc": 0.9831269400159264,
+        "real_test_auc": 0.9841770657938219,
+        "real_h5_holdout_auc": 0.39177003173549607,
+        "real_h7_holdout_auc": 0.8937042124542125
+      },
+      "L28": {
+        "fit_train_auc": 0.9968103445186309,
+        "best_C": 1.0,
+        "real_train_auc": 0.9968103445186309,
+        "real_val_auc": 0.9873441892968001,
+        "real_test_auc": 0.988654067068469,
+        "real_h5_holdout_auc": 0.7979757385935438,
+        "real_h7_holdout_auc": 0.2823489010989011
+      }
+    },
+    "shuffle_0": {
+      "L13": {
+        "fit_train_auc": 0.7595910073218721,
+        "best_C": 1.0,
+        "real_train_auc": 0.4507940091819071,
+        "real_val_auc": 0.4859628166999821,
+        "real_test_auc": 0.4169512329456937,
+        "real_h5_holdout_auc": 0.36392023258869,
+        "real_h7_holdout_auc": 0.1979395604395604
+      },
+      "L17": {
+        "fit_train_auc": 0.6740462392528321,
+        "best_C": 0.1,
+        "real_train_auc": 0.4351345927096661,
+        "real_val_auc": 0.4710521183755058,
+        "real_test_auc": 0.39137960879349143,
+        "real_h5_holdout_auc": 0.3752108785685148,
+        "real_h7_holdout_auc": 0.2529990842490843
+      },
+      "L28": {
+        "fit_train_auc": 0.6299592870940806,
+        "best_C": 0.01,
+        "real_train_auc": 0.39782565844882395,
+        "real_val_auc": 0.4368184551378935,
+        "real_test_auc": 0.37734275418194413,
+        "real_h5_holdout_auc": 0.27971400026273396,
+        "real_h7_holdout_auc": 0.538507326007326
+      }
+    },
+    "shuffle_1": {
+      "L13": {
+        "fit_train_auc": 0.5884591813695449,
+        "best_C": 0.001,
+        "real_train_auc": 0.6163023650041035,
+        "real_val_auc": 0.6162993840703362,
+        "real_test_auc": 0.6556564432624672,
+        "real_h5_holdout_auc": 0.32416962242365155,
+        "real_h7_holdout_auc": 0.451480463980464
+      },
+      "L17": {
+        "fit_train_auc": 0.8038191644536192,
+        "best_C": 100.0,
+        "real_train_auc": 0.5297100280618005,
+        "real_val_auc": 0.5270383371524223,
+        "real_test_auc": 0.5090562890459032,
+        "real_h5_holdout_auc": 0.304288267546134,
+        "real_h7_holdout_auc": 0.8193147130647132
+      },
+      "L28": {
+        "fit_train_auc": 0.5887835227415268,
+        "best_C": 0.001,
+        "real_train_auc": 0.660747884613317,
+        "real_val_auc": 0.6381575739846911,
+        "real_test_auc": 0.6710623632901632,
+        "real_h5_holdout_auc": 0.3146576161733491,
+        "real_h7_holdout_auc": 0.48521062271062276
+      }
+    },
+    "shuffle_2": {
+      "L13": {
+        "fit_train_auc": 0.7659835786500948,
+        "best_C": 1.0,
+        "real_train_auc": 0.5099814713271476,
+        "real_val_auc": 0.5259819934019143,
+        "real_test_auc": 0.5345807040458244,
+        "real_h5_holdout_auc": 0.4712332247827259,
+        "real_h7_holdout_auc": 0.22022283272283275
+      },
+      "L17": {
+        "fit_train_auc": 0.8111329727947474,
+        "best_C": 100.0,
+        "real_train_auc": 0.46426116469015544,
+        "real_val_auc": 0.46463279866088114,
+        "real_test_auc": 0.46529340488142634,
+        "real_h5_holdout_auc": 0.24468568722214157,
+        "real_h7_holdout_auc": 0.4861340048840049
+      },
+      "L28": {
+        "fit_train_auc": 0.6514170671655433,
+        "best_C": 0.01,
+        "real_train_auc": 0.4686987280800783,
+        "real_val_auc": 0.46966262005753,
+        "real_test_auc": 0.49666388657214344,
+        "real_h5_holdout_auc": 0.5746847192549418,
+        "real_h7_holdout_auc": 0.44155982905982905
+      }
+    },
+    "shuffle_3": {
+      "L13": {
+        "fit_train_auc": 0.8152669813315556,
+        "best_C": 100.0,
+        "real_train_auc": 0.5489880907582421,
+        "real_val_auc": 0.5544138917328914,
+        "real_test_auc": 0.534549231277637,
+        "real_h5_holdout_auc": 0.35238932332178685,
+        "real_h7_holdout_auc": 0.785279304029304
+      },
+      "L17": {
+        "fit_train_auc": 0.7967189555132658,
+        "best_C": 100.0,
+        "real_train_auc": 0.5904521784630161,
+        "real_val_auc": 0.5857873011229746,
+        "real_test_auc": 0.5624577084677482,
+        "real_h5_holdout_auc": 0.3395672149509448,
+        "real_h7_holdout_auc": 0.8207570207570207
+      },
+      "L28": {
+        "fit_train_auc": 0.7991554580739498,
+        "best_C": 100.0,
+        "real_train_auc": 0.5177359180294381,
+        "real_val_auc": 0.5067484114215137,
+        "real_test_auc": 0.5069869545375864,
+        "real_h5_holdout_auc": 0.7277186050209841,
+        "real_h7_holdout_auc": 0.6713904151404151
+      }
+    },
+    "shuffle_4": {
+      "L13": {
+        "fit_train_auc": 0.6457812326405689,
+        "best_C": 0.01,
+        "real_train_auc": 0.6382823167650442,
+        "real_val_auc": 0.5874368225179984,
+        "real_test_auc": 0.67616095173651,
+        "real_h5_holdout_auc": 0.343783057808384,
+        "real_h7_holdout_auc": 0.6511370573870574
+      },
+      "L17": {
+        "fit_train_auc": 0.6909334938912721,
+        "best_C": 0.1,
+        "real_train_auc": 0.6003634056919223,
+        "real_val_auc": 0.5590699299562836,
+        "real_test_auc": 0.65547547484539,
+        "real_h5_holdout_auc": 0.41815578049269536,
+        "real_h7_holdout_auc": 0.47718253968253965
+      },
+      "L28": {
+        "fit_train_auc": 0.6492509685442627,
+        "best_C": 0.01,
+        "real_train_auc": 0.6569446684371046,
+        "real_val_auc": 0.6055246778151562,
+        "real_test_auc": 0.6877193258533055,
+        "real_h5_holdout_auc": 0.3735843479703802,
+        "real_h7_holdout_auc": 0.7437042124542124
+      }
+    }
+  },
+  "label_is_jump_human": {
+    "real": {
+      "L13": {
+        "fit_train_auc": 0.9983189833825767,
+        "best_C": 1.0,
+        "real_train_auc": 0.9983189833825767,
+        "real_val_auc": 0.9886579839490799,
+        "real_test_auc": 0.990331914893617,
+        "real_h5_holdout_auc": 0.25225277353453995,
+        "real_h7_holdout_auc": 0.8631757979300861
+      },
+      "L17": {
+        "fit_train_auc": 0.996981926818777,
+        "best_C": 1.0,
+        "real_train_auc": 0.996981926818777,
+        "real_val_auc": 0.9844895876573959,
+        "real_test_auc": 0.9908085106382979,
+        "real_h5_holdout_auc": 0.2645793794071811,
+        "real_h7_holdout_auc": 0.627732141564739
+      },
+      "L28": {
+        "fit_train_auc": 0.9980702195624733,
+        "best_C": 1.0,
+        "real_train_auc": 0.9980702195624733,
+        "real_val_auc": 0.9920307527328075,
+        "real_test_auc": 0.991591489361702,
+        "real_h5_holdout_auc": 0.7936262710426021,
+        "real_h7_holdout_auc": 0.20591481508286893
+      }
+    },
+    "shuffle_0": {
+      "L13": {
+        "fit_train_auc": 0.8164173935663017,
+        "best_C": 100.0,
+        "real_train_auc": 0.47312723936407347,
+        "real_val_auc": 0.502425799086758,
+        "real_test_auc": 0.46289361702127657,
+        "real_h5_holdout_auc": 0.22144493820302735,
+        "real_h7_holdout_auc": 0.20568864442353624
+      },
+      "L17": {
+        "fit_train_auc": 0.8152415437930096,
+        "best_C": 100.0,
+        "real_train_auc": 0.43870655349675747,
+        "real_val_auc": 0.4645470112079701,
+        "real_test_auc": 0.4430978723404255,
+        "real_h5_holdout_auc": 0.5504385964912281,
+        "real_h7_holdout_auc": 0.8622439748136353
+      },
+      "L28": {
+        "fit_train_auc": 0.7571632227568359,
+        "best_C": 1.0,
+        "real_train_auc": 0.4122792172127326,
+        "real_val_auc": 0.4521023592085236,
+        "real_test_auc": 0.4081702127659575,
+        "real_h5_holdout_auc": 0.7296421021771667,
+        "real_h7_holdout_auc": 0.7218372294998913
+      }
+    },
+    "shuffle_1": {
+      "L13": {
+        "fit_train_auc": 0.5920398711599288,
+        "best_C": 0.001,
+        "real_train_auc": 0.5316122011014557,
+        "real_val_auc": 0.56327400719524,
+        "real_test_auc": 0.5655574468085106,
+        "real_h5_holdout_auc": 0.28806184326250983,
+        "real_h7_holdout_auc": 0.525973438517768
+      },
+      "L17": {
+        "fit_train_auc": 0.8123306153437524,
+        "best_C": 100.0,
+        "real_train_auc": 0.5278901458970423,
+        "real_val_auc": 0.5489354158018541,
+        "real_test_auc": 0.4860340425531915,
+        "real_h5_holdout_auc": 0.24426777145149597,
+        "real_h7_holdout_auc": 0.9235000361873055
+      },
+      "L28": {
+        "fit_train_auc": 0.8039419859266275,
+        "best_C": 10.0,
+        "real_train_auc": 0.49019282917721463,
+        "real_val_auc": 0.5478544001660439,
+        "real_test_auc": 0.523795744680851,
+        "real_h5_holdout_auc": 0.36155472233794694,
+        "real_h7_holdout_auc": 0.6092223348049506
+      }
+    },
+    "shuffle_2": {
+      "L13": {
+        "fit_train_auc": 0.777661165656333,
+        "best_C": 1.0,
+        "real_train_auc": 0.502694484338065,
+        "real_val_auc": 0.5475517157880172,
+        "real_test_auc": 0.5791404255319148,
+        "real_h5_holdout_auc": 0.46997523492107574,
+        "real_h7_holdout_auc": 0.2000434247665919
+      },
+      "L17": {
+        "fit_train_auc": 0.8208884825093571,
+        "best_C": 100.0,
+        "real_train_auc": 0.45940291982126613,
+        "real_val_auc": 0.4764814238273143,
+        "real_test_auc": 0.46989787234042557,
+        "real_h5_holdout_auc": 0.1609749417519172,
+        "real_h7_holdout_auc": 0.4222334804950423
+      },
+      "L28": {
+        "fit_train_auc": 0.6598801154264126,
+        "best_C": 0.01,
+        "real_train_auc": 0.46402640108876286,
+        "real_val_auc": 0.5027198353396983,
+        "real_test_auc": 0.5183063829787233,
+        "real_h5_holdout_auc": 0.5900955114258822,
+        "real_h7_holdout_auc": 0.40560541362090174
+      }
+    },
+    "shuffle_3": {
+      "L13": {
+        "fit_train_auc": 0.8299875578914544,
+        "best_C": 100.0,
+        "real_train_auc": 0.5160489880601202,
+        "real_val_auc": 0.5009296734467967,
+        "real_test_auc": 0.4807234042553191,
+        "real_h5_holdout_auc": 0.4748260272493018,
+        "real_h7_holdout_auc": 0.658925598899906
+      },
+      "L17": {
+        "fit_train_auc": 0.7944664349049722,
+        "best_C": 10.0,
+        "real_train_auc": 0.5490946172210378,
+        "real_val_auc": 0.5410396775978967,
+        "real_test_auc": 0.5276085106382978,
+        "real_h5_holdout_auc": 0.47294935888534007,
+        "real_h7_holdout_auc": 0.6856318303539118
+      },
+      "L28": {
+        "fit_train_auc": 0.8213423295732779,
+        "best_C": 100.0,
+        "real_train_auc": 0.47754074046216,
+        "real_val_auc": 0.4969169434066694,
+        "real_test_auc": 0.4630723404255319,
+        "real_h5_holdout_auc": 0.7561372648860498,
+        "real_h7_holdout_auc": 0.6213631757979301
+      }
+    },
+    "shuffle_4": {
+      "L13": {
+        "fit_train_auc": 0.8043037707894078,
+        "best_C": 10.0,
+        "real_train_auc": 0.5659741238616607,
+        "real_val_auc": 0.5332823093953231,
+        "real_test_auc": 0.5204936170212766,
+        "real_h5_holdout_auc": 0.4972959002607662,
+        "real_h7_holdout_auc": 0.8706846638199319
+      },
+      "L17": {
+        "fit_train_auc": 0.646252363256291,
+        "best_C": 0.01,
+        "real_train_auc": 0.7294213557667372,
+        "real_val_auc": 0.7016526567040265,
+        "real_test_auc": 0.7298893617021276,
+        "real_h5_holdout_auc": 0.46379939514573587,
+        "real_h7_holdout_auc": 0.30649743070130997
+      },
+      "L28": {
+        "fit_train_auc": 0.7096636321398154,
+        "best_C": 0.1,
+        "real_train_auc": 0.6622096808693179,
+        "real_val_auc": 0.649348796180988,
+        "real_test_auc": 0.6950723404255319,
+        "real_h5_holdout_auc": 0.330017821598852,
+        "real_h7_holdout_auc": 0.7535101686328437
+      }
+    }
+  }
+}

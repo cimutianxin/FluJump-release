@@ -1,0 +1,74 @@
+{
+  "label_is_jump_L28": {
+    "n_valid_cols": 566,
+    "spearman_H7_vs_H10": 0.6905,
+    "p_H7_vs_H10": 2.32e-81,
+    "top20_jaccard_H7_H10": 0.29,
+    "spearman_H7_vs_H4": 0.3863,
+    "p_H7_vs_H4": 2.27e-21,
+    "top20_jaccard_H7_H4": 0.111,
+    "spearman_H7_vs_H5": 0.2255,
+    "p_H7_vs_H5": 8.29e-08,
+    "top20_jaccard_H7_H5": 0.053
+  },
+  "label_is_jump_L17": {
+    "n_valid_cols": 566,
+    "spearman_H7_vs_H10": 0.6311,
+    "p_H7_vs_H10": 3.3e-64,
+    "top20_jaccard_H7_H10": 0.25,
+    "spearman_H7_vs_H4": 0.3678,
+    "p_H7_vs_H4": 2.23e-19,
+    "top20_jaccard_H7_H4": 0.081,
+    "spearman_H7_vs_H5": 0.3154,
+    "p_H7_vs_H5": 3.11e-14,
+    "top20_jaccard_H7_H5": 0.081
+  },
+  "label_is_jump_L13": {
+    "n_valid_cols": 566,
+    "spearman_H7_vs_H10": 0.7183,
+    "p_H7_vs_H10": 6.45e-91,
+    "top20_jaccard_H7_H10": 0.333,
+    "spearman_H7_vs_H4": 0.4198,
+    "p_H7_vs_H4": 2.56e-25,
+    "top20_jaccard_H7_H4": 0.143,
+    "spearman_H7_vs_H5": 0.1625,
+    "p_H7_vs_H5": 0.000124,
+    "top20_jaccard_H7_H5": 0.053
+  },
+  "label_is_jump_human_L28": {
+    "n_valid_cols": 556,
+    "spearman_H7_vs_H10": 0.657,
+    "p_H7_vs_H10": 5.49e-70,
+    "top20_jaccard_H7_H10": 0.29,
+    "spearman_H7_vs_H4": null,
+    "p_H7_vs_H4": null,
+    "top20_jaccard_H7_H4": null,
+    "spearman_H7_vs_H5": 0.2448,
+    "p_H7_vs_H5": 6.77e-09,
+    "top20_jaccard_H7_H5": 0.053
+  },
+  "label_is_jump_human_L17": {
+    "n_valid_cols": 556,
+    "spearman_H7_vs_H10": 0.6539,
+    "p_H7_vs_H10": 3.92e-69,
+    "top20_jaccard_H7_H10": 0.176,
+    "spearman_H7_vs_H4": null,
+    "p_H7_vs_H4": null,
+    "top20_jaccard_H7_H4": null,
+    "spearman_H7_vs_H5": 0.3196,
+    "p_H7_vs_H5": 1.96e-14,
+    "top20_jaccard_H7_H5": 0.111
+  },
+  "label_is_jump_human_L13": {
+    "n_valid_cols": 556,
+    "spearman_H7_vs_H10": 0.6829,
+    "p_H7_vs_H10": 1.4e-77,
+    "top20_jaccard_H7_H10": 0.333,
+    "spearman_H7_vs_H4": null,
+    "p_H7_vs_H4": null,
+    "top20_jaccard_H7_H4": null,
+    "spearman_H7_vs_H5": 0.1762,
+    "p_H7_vs_H5": 3.49e-05,
+    "top20_jaccard_H7_H5": 0.081
+  }
+}

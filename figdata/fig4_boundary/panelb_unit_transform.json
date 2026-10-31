@@ -1,0 +1,8 @@
+{
+  "definition": "proj_unit = (proj_w_raw - train_centroid_logit) / |w| = slope * proj_w + intercept；caption 的 −5.2/−3.3 口径",
+  "slope": 0.08690836465696015,
+  "intercept": 1.080107784044014,
+  "w_norm": 11.506372303139567,
+  "train_centroid_logit": -12.428122290729497,
+  "max_abs_residual_vs_meta": 1.2425548588240742e-06
+}

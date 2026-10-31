@@ -1,0 +1,10 @@
+{
+  "train_cv_auc": 0.9648,
+  "best_C": 1.0,
+  "same_subtype_cross_time": {
+    "eval": "H1+H3, collection_year >= 2013",
+    "n": 7343,
+    "n_pos": 571,
+    "auc": 0.7873
+  }
+}

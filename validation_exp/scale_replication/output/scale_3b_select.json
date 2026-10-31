@@ -1,0 +1,432 @@
+{
+  "per_file": {
+    "cluster_seed42.csv": {
+      "label_is_jump": {
+        "h5": {
+          "selected_layer": 35,
+          "val_auc": 0.8943425980682042,
+          "test_auc": 0.5075787699765205
+        },
+        "h7": {
+          "selected_layer": 2,
+          "val_auc": 0.6829896907216495,
+          "test_auc": 0.7115154857090341
+        }
+      },
+      "label_is_jump_human": {
+        "h5": {
+          "selected_layer": 20,
+          "val_auc": 0.8876511419614868,
+          "test_auc": 0.5828800063071586
+        },
+        "h7": {
+          "selected_layer": 1,
+          "val_auc": 0.6744488411531939,
+          "test_auc": 0.6355013550135501
+        }
+      }
+    },
+    "cluster_seed43.csv": {
+      "label_is_jump": {
+        "h5": {
+          "selected_layer": 17,
+          "val_auc": 0.8278680219287954,
+          "test_auc": 0.5899649966261808
+        },
+        "h7": {
+          "selected_layer": 2,
+          "val_auc": 0.7228497600590624,
+          "test_auc": 0.6100217864923747
+        }
+      },
+      "label_is_jump_human": {
+        "h5": {
+          "selected_layer": 17,
+          "val_auc": 0.8970813828887259,
+          "test_auc": 0.5727035734207621
+        },
+        "h7": {
+          "selected_layer": 2,
+          "val_auc": 0.7128165240687927,
+          "test_auc": 0.592967409948542
+        }
+      }
+    },
+    "cluster_seed44.csv": {
+      "label_is_jump": {
+        "h5": {
+          "selected_layer": 29,
+          "val_auc": 0.8108380005705792,
+          "test_auc": 0.6947889188037675
+        },
+        "h7": {
+          "selected_layer": 1,
+          "val_auc": 0.6441042170292774,
+          "test_auc": 0.5403958670484252
+        }
+      },
+      "label_is_jump_human": {
+        "h5": {
+          "selected_layer": 14,
+          "val_auc": 0.8217693376563223,
+          "test_auc": 0.8207696448292824
+        },
+        "h7": {
+          "selected_layer": 1,
+          "val_auc": 0.6855791962174941,
+          "test_auc": 0.6227826817990753
+        }
+      }
+    },
+    "cluster_seed45.csv": {
+      "label_is_jump": {
+        "h5": {
+          "selected_layer": 34,
+          "val_auc": 0.7756929135666392,
+          "test_auc": 0.5533629584996611
+        },
+        "h7": {
+          "selected_layer": 2,
+          "val_auc": 0.6993940089082603,
+          "test_auc": 0.6503857765850385
+        }
+      },
+      "label_is_jump_human": {
+        "h5": {
+          "selected_layer": 14,
+          "val_auc": 0.8673744318561085,
+          "test_auc": 0.7819116573375517
+        },
+        "h7": {
+          "selected_layer": 2,
+          "val_auc": 0.6328063953837831,
+          "test_auc": 0.6776295376977971
+        }
+      }
+    },
+    "cluster_seed46.csv": {
+      "label_is_jump": {
+        "h5": {
+          "selected_layer": 17,
+          "val_auc": 0.8058583618388904,
+          "test_auc": 0.6309705939531228
+        },
+        "h7": {
+          "selected_layer": 2,
+          "val_auc": 0.7495128000708654,
+          "test_auc": 0.6090534979423868
+        }
+      },
+      "label_is_jump_human": {
+        "h5": {
+          "selected_layer": 17,
+          "val_auc": 0.8773972872284606,
+          "test_auc": 0.6509232398581756
+        },
+        "h7": {
+          "selected_layer": 2,
+          "val_auc": 0.7311572412455136,
+          "test_auc": 0.6168509070294784
+        }
+      }
+    },
+    "isolate_random_seed42.csv": {
+      "label_is_jump": {
+        "h5": {
+          "selected_layer": 17,
+          "val_auc": 0.7179607143375258,
+          "test_auc": 0.74303028990529
+        },
+        "h7": {
+          "selected_layer": 2,
+          "val_auc": 0.6883707430340558,
+          "test_auc": 0.7122570532915361
+        }
+      },
+      "label_is_jump_human": {
+        "h5": {
+          "selected_layer": 14,
+          "val_auc": 0.8343776106934001,
+          "test_auc": 0.8226531240381656
+        },
+        "h7": {
+          "selected_layer": 2,
+          "val_auc": 0.6704422088731273,
+          "test_auc": 0.6704422088731273
+        }
+      }
+    },
+    "isolate_random_seed43.csv": {
+      "label_is_jump": {
+        "h5": {
+          "selected_layer": 17,
+          "val_auc": 0.7435579639130686,
+          "test_auc": 0.7170840358118714
+        },
+        "h7": {
+          "selected_layer": 2,
+          "val_auc": 0.6871473354231974,
+          "test_auc": 0.7148155314757481
+        }
+      },
+      "label_is_jump_human": {
+        "h5": {
+          "selected_layer": 14,
+          "val_auc": 0.8235712738636716,
+          "test_auc": 0.8340758694983073
+        },
+        "h7": {
+          "selected_layer": 1,
+          "val_auc": 0.6740609394224506,
+          "test_auc": 0.6417818629224867
+        }
+      }
+    },
+    "isolate_random_seed44.csv": {
+      "label_is_jump": {
+        "h5": {
+          "selected_layer": 17,
+          "val_auc": 0.718193347552891,
+          "test_auc": 0.742925556653683
+        },
+        "h7": {
+          "selected_layer": 2,
+          "val_auc": 0.7153605015673982,
+          "test_auc": 0.684017027863777
+        }
+      },
+      "label_is_jump_human": {
+        "h5": {
+          "selected_layer": 14,
+          "val_auc": 0.8073965778644142,
+          "test_auc": 0.8492189904586026
+        },
+        "h7": {
+          "selected_layer": 1,
+          "val_auc": 0.6643265542447709,
+          "test_auc": 0.6515886227111529
+        }
+      }
+    },
+    "isolate_random_seed45.csv": {
+      "label_is_jump": {
+        "h5": {
+          "selected_layer": 17,
+          "val_auc": 0.7374019301029098,
+          "test_auc": 0.7234018059502824
+        },
+        "h7": {
+          "selected_layer": 2,
+          "val_auc": 0.6932449494949495,
+          "test_auc": 0.7064416981494526
+        }
+      },
+      "label_is_jump_human": {
+        "h5": {
+          "selected_layer": 14,
+          "val_auc": 0.8171818434976329,
+          "test_auc": 0.8405624807633117
+        },
+        "h7": {
+          "selected_layer": 2,
+          "val_auc": 0.6549540421220236,
+          "test_auc": 0.6848085691539408
+        }
+      }
+    },
+    "isolate_random_seed46.csv": {
+      "label_is_jump": {
+        "h5": {
+          "selected_layer": 17,
+          "val_auc": 0.7192741469057259,
+          "test_auc": 0.7413901744779783
+        },
+        "h7": {
+          "selected_layer": 2,
+          "val_auc": 0.6806502525252525,
+          "test_auc": 0.7208490747262599
+        }
+      },
+      "label_is_jump_human": {
+        "h5": {
+          "selected_layer": 14,
+          "val_auc": 0.8258300071165567,
+          "test_auc": 0.8315404739919975
+        },
+        "h7": {
+          "selected_layer": 2,
+          "val_auc": 0.6736990663675183,
+          "test_auc": 0.6674024752116958
+        }
+      }
+    }
+  },
+  "summary": {
+    "cluster": {
+      "label_is_jump": {
+        "h5": {
+          "selected_layers": [
+            35,
+            17,
+            29,
+            34,
+            17
+          ],
+          "layer_freq": {
+            "35": 1,
+            "17": 2,
+            "29": 1,
+            "34": 1
+          },
+          "test_auc_mean": 0.5953332475718505,
+          "test_auc_std": 0.06426915686134063
+        },
+        "h7": {
+          "selected_layers": [
+            2,
+            2,
+            1,
+            2,
+            2
+          ],
+          "layer_freq": {
+            "2": 4,
+            "1": 1
+          },
+          "test_auc_mean": 0.6242744827554518,
+          "test_auc_std": 0.05614843214939505
+        }
+      },
+      "label_is_jump_human": {
+        "h5": {
+          "selected_layers": [
+            20,
+            17,
+            14,
+            14,
+            17
+          ],
+          "layer_freq": {
+            "20": 1,
+            "17": 2,
+            "14": 2
+          },
+          "test_auc_mean": 0.6818376243505861,
+          "test_auc_std": 0.10195633261577829
+        },
+        "h7": {
+          "selected_layers": [
+            1,
+            2,
+            1,
+            2,
+            2
+          ],
+          "layer_freq": {
+            "1": 2,
+            "2": 3
+          },
+          "test_auc_mean": 0.6291463782976886,
+          "test_auc_std": 0.027898370820239188
+        }
+      }
+    },
+    "isolate_random": {
+      "label_is_jump": {
+        "h5": {
+          "selected_layers": [
+            17,
+            17,
+            17,
+            17,
+            17
+          ],
+          "layer_freq": {
+            "17": 5
+          },
+          "test_auc_mean": 0.733566372559821,
+          "test_auc_std": 0.01107571915418395
+        },
+        "h7": {
+          "selected_layers": [
+            2,
+            2,
+            2,
+            2,
+            2
+          ],
+          "layer_freq": {
+            "2": 5
+          },
+          "test_auc_mean": 0.7076760771013548,
+          "test_auc_std": 0.012702435359157192
+        }
+      },
+      "label_is_jump_human": {
+        "h5": {
+          "selected_layers": [
+            14,
+            14,
+            14,
+            14,
+            14
+          ],
+          "layer_freq": {
+            "14": 5
+          },
+          "test_auc_mean": 0.835610187750077,
+          "test_auc_std": 0.008905357037799825
+        },
+        "h7": {
+          "selected_layers": [
+            2,
+            1,
+            1,
+            2,
+            2
+          ],
+          "layer_freq": {
+            "2": 3,
+            "1": 2
+          },
+          "test_auc_mean": 0.6632047477744807,
+          "test_auc_std": 0.01503729506165158
+        }
+      }
+    }
+  },
+  "bootstrap_cluster_seed42": {
+    "label_is_jump": {
+      "h5": {
+        "layer": 35,
+        "auc_full": 0.5075787699765205,
+        "p05": 0.34793796681716394,
+        "p95": 0.6889842390708802,
+        "p_above_0.5": 0.522
+      },
+      "h7": {
+        "layer": 2,
+        "auc_full": 0.7115154857090341,
+        "p05": 0.5081135458039615,
+        "p95": 0.8131624815977334,
+        "p_above_0.5": 0.9557788944723619
+      }
+    },
+    "label_is_jump_human": {
+      "h5": {
+        "layer": 20,
+        "auc_full": 0.5828800063071586,
+        "p05": 0.43086226638767466,
+        "p95": 0.7635267630221827,
+        "p_above_0.5": 0.7805611222444889
+      },
+      "h7": {
+        "layer": 1,
+        "auc_full": 0.6355013550135501,
+        "p05": 0.4565273497780997,
+        "p95": 0.7999891050790042,
+        "p_above_0.5": 0.9036016949152542
+      }
+    }
+  }
+}

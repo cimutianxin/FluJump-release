@@ -1,0 +1,55 @@
+{
+  "label": "label_is_jump_human",
+  "embedding": "esm_emb_150M_L3",
+  "probe": "StandardScaler + Ridge LR GridSearchCV（同 analyze_geometry.py）",
+  "pca_fit": "X_std[split==train]，PCA(n_components=2, random_state=42)",
+  "best_C": 1.0,
+  "explained_variance_ratio": [
+    0.46203702688217163,
+    0.12539789080619812
+  ],
+  "proj_w_definition": "decision_function = X_std @ w + intercept（raw logit）",
+  "proj_check_w_unit_rel_train_centroid": {
+    "H1": {
+      "proj_pos": 1.2848357891040048,
+      "proj_neg": -0.004289804095728253
+    },
+    "H3": {
+      "proj_pos": 1.2824429309683165,
+      "proj_neg": -0.20957067664312348
+    },
+    "H5": {
+      "proj_pos": 1.016311466054546,
+      "proj_neg": 0.2598808656945707
+    },
+    "H7": {
+      "proj_pos": -5.160921868998647,
+      "proj_neg": -3.2813616114875863
+    }
+  },
+  "proj_ref_geometry_analysis_json": {
+    "H1": {
+      "cos_w_d": 0.012817369557236311,
+      "proj_pos": 1.3543861497955405,
+      "proj_neg": 0.02686145667269437
+    },
+    "H3": {
+      "cos_w_d": -0.01413903875374639,
+      "proj_pos": 1.3546910198684374,
+      "proj_neg": -0.24580736082060461
+    },
+    "H5": {
+      "cos_w_d": 0.011678340729600268,
+      "proj_pos": 1.0154662188542154,
+      "proj_neg": 0.2629303632878056
+    },
+    "H7": {
+      "cos_w_d": -0.12181536021781195,
+      "proj_pos": -5.098979595529507,
+      "proj_neg": -3.280494415387508
+    }
+  },
+  "max_abs_dev_vs_json": 0.07224808890012091,
+  "dev_note": "geometry_analysis.json(2026-08-01) 早于 09-19 host_label 修复（labels 2026-09-19 重生成），proj 字段存在 ≤0.1 标签位移偏差",
+  "ref": "ESM_clf/jump_exp/output/geometry_analysis.json"
+}

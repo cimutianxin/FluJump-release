@@ -1,0 +1,424 @@
+{
+  "protocol": "train GridSearchCV \u2192 val \u9009\u62e9 \u2192 train+val \u91cd\u8bad \u2192 test \u5355\u6b21\u8bc4\u4f30 + bootstrap CI",
+  "winner": {
+    "key": "SVM_RBF|L3",
+    "emb": "L3",
+    "model": "SVM_RBF",
+    "best_params": {
+      "C": 10.0,
+      "gamma": 0.001
+    },
+    "refit": "train+val \u91cd\u8bad\uff08best_params\uff09"
+  },
+  "val_table": {
+    "RidgeLR|L1": {
+      "kind": "sklearn",
+      "emb": "L1",
+      "name": "RidgeLR",
+      "val": {
+        "acc": 0.6868686868686869,
+        "balanced_acc": 0.740715579710145,
+        "macro_f1": 0.6200657894736842,
+        "n": 99,
+        "human_first_rec": 0.6875,
+        "<1yr_rec": 0.6086956521739131,
+        "1-3yr_rec": 0.8333333333333334,
+        "3yr+_rec": 0.8333333333333334
+      },
+      "best_params": {
+        "C": 0.1,
+        "class_weight": "balanced"
+      }
+    },
+    "ElasticNetLR|L1": {
+      "kind": "sklearn",
+      "emb": "L1",
+      "name": "ElasticNetLR",
+      "val": {
+        "acc": 0.6363636363636364,
+        "balanced_acc": 0.6834239130434783,
+        "macro_f1": 0.5498019710785669,
+        "n": 99,
+        "human_first_rec": 0.625,
+        "<1yr_rec": 0.6086956521739131,
+        "1-3yr_rec": 0.6666666666666666,
+        "3yr+_rec": 0.8333333333333334
+      },
+      "best_params": {
+        "C": 0.1,
+        "class_weight": "balanced",
+        "l1_ratio": 0.5
+      }
+    },
+    "OrdinalAT|L1": {
+      "kind": "ordinal",
+      "emb": "L1",
+      "name": "OrdinalAT",
+      "val": {
+        "acc": 0.6666666666666666,
+        "balanced_acc": 0.43376358695652173,
+        "macro_f1": 0.42733851514339316,
+        "n": 99,
+        "human_first_rec": 0.84375,
+        "<1yr_rec": 0.391304347826087,
+        "1-3yr_rec": 0.16666666666666666,
+        "3yr+_rec": 0.3333333333333333
+      },
+      "best_params": {
+        "alpha": 0.001
+      }
+    },
+    "SVM_RBF|L1": {
+      "kind": "sklearn",
+      "emb": "L1",
+      "name": "SVM_RBF",
+      "val": {
+        "acc": 0.7171717171717171,
+        "balanced_acc": 0.7663609601449275,
+        "macro_f1": 0.6624850076177509,
+        "n": 99,
+        "human_first_rec": 0.703125,
+        "<1yr_rec": 0.6956521739130435,
+        "1-3yr_rec": 0.6666666666666666,
+        "3yr+_rec": 1.0
+      },
+      "best_params": {
+        "C": 10.0,
+        "gamma": 0.001
+      }
+    },
+    "XGBoost|L1": {
+      "kind": "xgb",
+      "emb": "L1",
+      "name": "XGBoost",
+      "val": {
+        "acc": 0.7676767676767676,
+        "balanced_acc": 0.7441123188405797,
+        "macro_f1": 0.7123358348968105,
+        "n": 99,
+        "human_first_rec": 0.875,
+        "<1yr_rec": 0.43478260869565216,
+        "1-3yr_rec": 0.8333333333333334,
+        "3yr+_rec": 0.8333333333333334
+      },
+      "best_params": {
+        "learning_rate": 0.05,
+        "max_depth": 5,
+        "n_estimators": 200
+      }
+    },
+    "MLP|L1": {
+      "kind": "mlp",
+      "emb": "L1",
+      "name": "MLP",
+      "val": {
+        "acc": 0.7710437710437711,
+        "balanced_acc": 0.6890851449275363,
+        "macro_f1": 0.6736062276924724
+      },
+      "best_params": {
+        "hidden": [
+          256,
+          128
+        ]
+      }
+    },
+    "RidgeLR|L3": {
+      "kind": "sklearn",
+      "emb": "L3",
+      "name": "RidgeLR",
+      "val": {
+        "acc": 0.7070707070707071,
+        "balanced_acc": 0.748528079710145,
+        "macro_f1": 0.6423548094373865,
+        "n": 99,
+        "human_first_rec": 0.71875,
+        "<1yr_rec": 0.6086956521739131,
+        "1-3yr_rec": 0.8333333333333334,
+        "3yr+_rec": 0.8333333333333334
+      },
+      "best_params": {
+        "C": 0.1,
+        "class_weight": "balanced"
+      }
+    },
+    "ElasticNetLR|L3": {
+      "kind": "sklearn",
+      "emb": "L3",
+      "name": "ElasticNetLR",
+      "val": {
+        "acc": 0.6262626262626263,
+        "balanced_acc": 0.6655910326086957,
+        "macro_f1": 0.5432447753876326,
+        "n": 99,
+        "human_first_rec": 0.640625,
+        "<1yr_rec": 0.5217391304347826,
+        "1-3yr_rec": 0.6666666666666666,
+        "3yr+_rec": 0.8333333333333334
+      },
+      "best_params": {
+        "C": 0.1,
+        "class_weight": "balanced",
+        "l1_ratio": 0.5
+      }
+    },
+    "OrdinalAT|L3": {
+      "kind": "ordinal",
+      "emb": "L3",
+      "name": "OrdinalAT",
+      "val": {
+        "acc": 0.6060606060606061,
+        "balanced_acc": 0.5027173913043479,
+        "macro_f1": 0.4729437229437229,
+        "n": 99,
+        "human_first_rec": 0.75,
+        "<1yr_rec": 0.2608695652173913,
+        "1-3yr_rec": 0.6666666666666666,
+        "3yr+_rec": 0.3333333333333333
+      },
+      "best_params": {
+        "alpha": 0.01
+      }
+    },
+    "SVM_RBF|L3": {
+      "kind": "sklearn",
+      "emb": "L3",
+      "name": "SVM_RBF",
+      "val": {
+        "acc": 0.7474747474747475,
+        "balanced_acc": 0.7850430253623188,
+        "macro_f1": 0.6823308270676691,
+        "n": 99,
+        "human_first_rec": 0.734375,
+        "<1yr_rec": 0.7391304347826086,
+        "1-3yr_rec": 0.6666666666666666,
+        "3yr+_rec": 1.0
+      },
+      "best_params": {
+        "C": 10.0,
+        "gamma": 0.001
+      }
+    },
+    "XGBoost|L3": {
+      "kind": "xgb",
+      "emb": "L3",
+      "name": "XGBoost",
+      "val": {
+        "acc": 0.7070707070707071,
+        "balanced_acc": 0.5865036231884058,
+        "macro_f1": 0.5490238927738927,
+        "n": 99,
+        "human_first_rec": 0.875,
+        "<1yr_rec": 0.30434782608695654,
+        "1-3yr_rec": 0.3333333333333333,
+        "3yr+_rec": 0.8333333333333334
+      },
+      "best_params": {
+        "learning_rate": 0.1,
+        "max_depth": 3,
+        "n_estimators": 200
+      }
+    },
+    "MLP|L3": {
+      "kind": "mlp",
+      "emb": "L3",
+      "name": "MLP",
+      "val": {
+        "acc": 0.7474747474747474,
+        "balanced_acc": 0.6650626509661836,
+        "macro_f1": 0.6444985114138356
+      },
+      "best_params": {
+        "hidden": [
+          256,
+          128
+        ]
+      }
+    },
+    "RidgeLR|L1L3": {
+      "kind": "sklearn",
+      "emb": "L1L3",
+      "name": "RidgeLR",
+      "val": {
+        "acc": 0.6868686868686869,
+        "balanced_acc": 0.7476788949275363,
+        "macro_f1": 0.6268520566121185,
+        "n": 99,
+        "human_first_rec": 0.671875,
+        "<1yr_rec": 0.6521739130434783,
+        "1-3yr_rec": 0.8333333333333334,
+        "3yr+_rec": 0.8333333333333334
+      },
+      "best_params": {
+        "C": 0.01,
+        "class_weight": "balanced"
+      }
+    },
+    "ElasticNetLR|L1L3": {
+      "kind": "sklearn",
+      "emb": "L1L3",
+      "name": "ElasticNetLR",
+      "val": {
+        "acc": 0.6666666666666666,
+        "balanced_acc": 0.7021059782608696,
+        "macro_f1": 0.5862480127186009,
+        "n": 99,
+        "human_first_rec": 0.65625,
+        "<1yr_rec": 0.6521739130434783,
+        "1-3yr_rec": 0.6666666666666666,
+        "3yr+_rec": 0.8333333333333334
+      },
+      "best_params": {
+        "C": 0.1,
+        "class_weight": "balanced",
+        "l1_ratio": 0.5
+      }
+    },
+    "OrdinalAT|L1L3": {
+      "kind": "ordinal",
+      "emb": "L1L3",
+      "name": "OrdinalAT",
+      "val": {
+        "acc": 0.6363636363636364,
+        "balanced_acc": 0.47667572463768115,
+        "macro_f1": 0.4575392165086822,
+        "n": 99,
+        "human_first_rec": 0.8125,
+        "<1yr_rec": 0.2608695652173913,
+        "1-3yr_rec": 0.5,
+        "3yr+_rec": 0.3333333333333333
+      },
+      "best_params": {
+        "alpha": 0.01
+      }
+    },
+    "SVM_RBF|L1L3": {
+      "kind": "sklearn",
+      "emb": "L1L3",
+      "name": "SVM_RBF",
+      "val": {
+        "acc": 0.696969696969697,
+        "balanced_acc": 0.7376585144927535,
+        "macro_f1": 0.6315823656249189,
+        "n": 99,
+        "human_first_rec": 0.71875,
+        "<1yr_rec": 0.5652173913043478,
+        "1-3yr_rec": 0.6666666666666666,
+        "3yr+_rec": 1.0
+      },
+      "best_params": {
+        "C": 10.0,
+        "gamma": "scale"
+      }
+    },
+    "XGBoost|L1L3": {
+      "kind": "xgb",
+      "emb": "L1L3",
+      "name": "XGBoost",
+      "val": {
+        "acc": 0.7575757575757576,
+        "balanced_acc": 0.7024456521739131,
+        "macro_f1": 0.6841765260123108,
+        "n": 99,
+        "human_first_rec": 0.875,
+        "<1yr_rec": 0.43478260869565216,
+        "1-3yr_rec": 0.6666666666666666,
+        "3yr+_rec": 0.8333333333333334
+      },
+      "best_params": {
+        "learning_rate": 0.05,
+        "max_depth": 5,
+        "n_estimators": 300
+      }
+    },
+    "MLP|L1L3": {
+      "kind": "mlp",
+      "emb": "L1L3",
+      "name": "MLP",
+      "val": {
+        "acc": 0.7643097643097643,
+        "balanced_acc": 0.6463994565217391,
+        "macro_f1": 0.6401498984983559
+      },
+      "best_params": {
+        "hidden": [
+          256,
+          128
+        ]
+      }
+    }
+  },
+  "test": {
+    "acc": 0.64,
+    "balanced_acc": 0.6972488332105135,
+    "macro_f1": 0.6144563279857397,
+    "n": 100,
+    "human_first_rec": 0.6440677966101694,
+    "<1yr_rec": 0.4782608695652174,
+    "1-3yr_rec": 0.8333333333333334,
+    "3yr+_rec": 0.8333333333333334
+  },
+  "test_bootstrap_ci": {
+    "acc": {
+      "mean": 0.6424300000000001,
+      "ci_lo": 0.55,
+      "ci_hi": 0.73
+    },
+    "balanced_acc": {
+      "mean": 0.7001480387815942,
+      "ci_lo": 0.5800520479691765,
+      "ci_hi": 0.8011069245366353
+    },
+    "macro_f1": {
+      "mean": 0.609936827880321,
+      "ci_lo": 0.4924089771458823,
+      "ci_hi": 0.7202234519812276
+    }
+  },
+  "test_per_subtype": {
+    "H1": {
+      "acc": 0.6555555555555556,
+      "balanced_acc": 0.6944444444444445,
+      "macro_f1": 0.6142943078426949,
+      "n": 90,
+      "human_first_rec": 0.6666666666666666,
+      "<1yr_rec": 0.4444444444444444,
+      "1-3yr_rec": 0.8333333333333334,
+      "3yr+_rec": 0.8333333333333334
+    },
+    "H3": {
+      "acc": 0.5,
+      "balanced_acc": 0.5,
+      "macro_f1": 0.4949494949494949,
+      "n": 10,
+      "human_first_rec": 0.4,
+      "<1yr_rec": 0.6
+    }
+  },
+  "baselines": {
+    "majority": {
+      "acc": 0.59,
+      "balanced_acc": 0.25,
+      "macro_f1": 0.18553459119496854,
+      "n": 100,
+      "human_first_rec": 1.0,
+      "<1yr_rec": 0.0,
+      "1-3yr_rec": 0.0,
+      "3yr+_rec": 0.0
+    },
+    "stratified_random": {
+      "acc": {
+        "mean": 0.43640999999999996,
+        "std": 0.042734200589223614
+      },
+      "balanced_acc": {
+        "mean": 0.24907749938590024,
+        "std": 0.04175060333177674
+      },
+      "macro_f1": {
+        "mean": 0.24595149329111932,
+        "std": 0.04184488230578031
+      }
+    }
+  }
+}

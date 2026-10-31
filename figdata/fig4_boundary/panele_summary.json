@@ -1,0 +1,32 @@
+{
+  "n_shared_core_cols": 17,
+  "n_core_in_RBS": 0,
+  "core_region_counts": {
+    "other": 12,
+    "antigenic_site": 4,
+    "HA2_stem": 1
+  },
+  "js_percentile_per_cell": {
+    "label_is_jump_L28": 52.8,
+    "label_is_jump_L17": 70.6,
+    "label_is_jump_L13": 78.7,
+    "label_is_jump_human_L28": 52.8,
+    "label_is_jump_human_L17": 72.6,
+    "label_is_jump_human_L13": 85.4,
+    "core": 72.3
+  },
+  "js_percentile_range": [
+    52.8,
+    85.4
+  ],
+  "js_threshold": 95,
+  "identity_probe": {
+    "cv_auc_H7": 0.9951,
+    "cv_auc_H5": 0.9969,
+    "rho_vs_reversal_jump": 0.1469,
+    "rho_vs_reversal_jump_human": 0.1132,
+    "ctrl_idH5_jump": 0.032,
+    "ctrl_idH5_jump_human": 0.0273
+  },
+  "render_note": "assets/panele_1hgg_{top,side}_v2.png；RBS=深蓝大球（130-loop/190-helix/220-loop），共享核心=白→红渐变（−d_pos_mean）；渲染脚本 panele_1hgg_render_v2.pml"
+}

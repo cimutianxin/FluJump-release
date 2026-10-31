@@ -1,0 +1,50 @@
+subtype,accession,strain_name,host_species,raw_host_category,old_infer,new_infer
+H1,6V49_F,Chain F,Influenza A virus (A/wedge-tailed shearwater/Western Australia/2576/1979(H15N9)),environmental,environmental,unknown
+H1,6V49_E,Chain E,Influenza A virus (A/wedge-tailed shearwater/Western Australia/2576/1979(H15N9)),environmental,environmental,unknown
+H1,6V49_D,Chain D,Influenza A virus (A/wedge-tailed shearwater/Western Australia/2576/1979(H15N9)),environmental,environmental,unknown
+H1,6V49_C,Chain C,Influenza A virus (A/wedge-tailed shearwater/Western Australia/2576/1979(H15N9)),environmental,environmental,unknown
+H1,6V49_B,Chain B,Influenza A virus (A/wedge-tailed shearwater/Western Australia/2576/1979(H15N9)),environmental,environmental,unknown
+H1,6V49_A,Chain A,Influenza A virus (A/wedge-tailed shearwater/Western Australia/2576/1979(H15N9)),environmental,environmental,unknown
+H1,UEF70290,A/wild waterbird/South Australia/19-9013889-61/2019,wild waterbird,environmental,environmental,avian
+H1,UEF70281,A/wild waterbird/South Australia/19-9013889-37/2019,wild waterbird,environmental,environmental,avian
+H3,UEP57961,A/wild waterbird/Western Australia/AS15-1167-28/2015,wild waterbird,environmental,environmental,avian
+H3,ACC59633,A/Buenos Aires/FLU7039/2007,Influenza A virus (A/Buenos Aires/FLU7039/2007(H3)),environmental,environmental,unknown
+H3,ACC59632,A/Buenos Aires/FLU7035/2007,Influenza A virus (A/Buenos Aires/FLU7035/2007(H3)),environmental,environmental,unknown
+H3,ACC59631,A/Buenos Aires/FLU7031/2007,Influenza A virus (A/Buenos Aires/FLU7031/2007(H3)),environmental,environmental,unknown
+H3,ACC59630,A/Buenos Aires/FLU7021/2007,Influenza A virus (A/Buenos Aires/FLU7021/2007(H3)),environmental,environmental,unknown
+H3,ACC59629,A/Buenos Aires/FLU7013/2007,Influenza A virus (A/Buenos Aires/FLU7013/2007(H3)),environmental,environmental,unknown
+H3,ACC59628,A/Buenos Aires/FLU7012/2007,Influenza A virus (A/Buenos Aires/FLU7012/2007(H3)),environmental,environmental,unknown
+H3,ACC59627,A/Buenos Aires/FLU7007/2007,Influenza A virus (A/Buenos Aires/FLU7007/2007(H3)),environmental,environmental,unknown
+H3,ACC59626,A/Buenos Aires/FLU7002/2007,Influenza A virus (A/Buenos Aires/FLU7002/2007(H3)),environmental,environmental,unknown
+H3,BBM96455,A/muscovy duck/Vietnam/LBM946/2017,Cairina moschata,environmental,environmental,avian
+H3,AAF16498,A/Moscow/2/97(H3N2),Influenza A virus (A/Moscow/2/97(H3N2)),bovine,bovine,unknown
+H5,YAF83157,A/Environmental/New Zealand/Sediment/2025,Environmental,environmental,environmental,unknown
+H5,XXQ85024,A/Tyto furcata/Queen Creek/24-0629/2024,Tyto furcata,feline,feline,avian
+H5,XXQ85027,A/Tyto furcata/San Tan Valley/24-0632/2024,Tyto furcata,feline,feline,avian
+H5,XBU76308,A/wild waterbird/South Australia/23-80999145-13/2023,wild waterbird,environmental,environmental,avian
+H5,XBU76296,A/wild waterbird/Queensland/P23-02457-51/2023,wild waterbird,environmental,environmental,avian
+H5,XBU76284,A/wild waterbird/Queensland/P23-02457-48/2023,wild waterbird,environmental,environmental,avian
+H5,AYD68797,A/Environmental fecal/AN/2/2017,Environmental fecal,environmental,environmental,unknown
+H5,BBC44465,A/muscovy duck/Vietnam/HU7-23/2017,Cairina moschata,environmental,environmental,avian
+H5,BBC44454,A/muscovy duck/Vietnam/HU7-20/2017,Cairina moschata,environmental,environmental,avian
+H5,BBC44443,A/muscovy duck/Vietnam/HU7-17/2017,Cairina moschata,environmental,environmental,avian
+H5,BBC44366,A/muscovy duck/Vietnam/HU2-26/2014,Cairina moschata,environmental,environmental,avian
+H5,BAV92933,A/Muscovy duck/Vietnam/HU3-353/2015(H5N1),Cairina moschata,environmental,environmental,avian
+H5,BAV92922,A/Muscovy duck/Vietnam/HU3-97/2015(H5N1),Cairina moschata,environmental,environmental,avian
+H7,XYY31774,A/wild waterfowl/South Australia/23-83059507-80/2023,wild waterbird,environmental,environmental,avian
+H7,XYY31697,A/wild waterfowl/South Australia/24-86419041-19/2024,wild waterbird,environmental,environmental,avian
+H7,XYY31684,A/wild waterfowl/South Australia/23-83059507-84/2023,wild waterbird,environmental,environmental,avian
+H7,XYY31683,A/wild waterfowl/South Australia/23-83059507-84/2023,wild waterbird,environmental,environmental,avian
+H7,XYY31671,A/wild waterfowl/South Australia/23-83059507-16/2023,wild waterbird,environmental,environmental,avian
+H7,5TG9_D,Chain D,Influenza A virus (A/shearWater/Australia/2576/1979(H15N9)),environmental,environmental,unknown
+H7,5TG9_C,Chain C,Influenza A virus (A/shearWater/Australia/2576/1979(H15N9)),environmental,environmental,unknown
+H7,5TG9_B,Chain B,Influenza A virus (A/shearWater/Australia/2576/1979(H15N9)),environmental,environmental,unknown
+H7,5TG9_A,Chain A,Influenza A virus (A/shearWater/Australia/2576/1979(H15N9)),environmental,environmental,unknown
+H7,5TG8_D,Chain D,Influenza A virus (A/shearWater/Australia/2576/1979(H15N9)),environmental,environmental,unknown
+H7,5TG8_C,Chain C,Influenza A virus (A/shearWater/Australia/2576/1979(H15N9)),environmental,environmental,unknown
+H7,5TG8_B,Chain B,Influenza A virus (A/shearWater/Australia/2576/1979(H15N9)),environmental,environmental,unknown
+H7,5TG8_A,Chain A,Influenza A virus (A/shearWater/Australia/2576/1979(H15N9)),environmental,environmental,unknown
+H7,UEF70314,A/wild waterbird/South Australia/19-9013889-93/2019,wild waterbird,environmental,environmental,avian
+H7,UEF70291,A/wild waterbird/South Australia/19-9013889-61/2019,wild waterbird,environmental,environmental,avian
+H7,AXA11917,A/blue & white flycatcher/California/14875-1/1994,blue & white flycatcher,feline,feline,avian
+H7,AAG10653,A/fairy bluebird/Singapore/F92/94,Influenza A virus (A/fairy bluebird/Singapore/F92/94(H7N1)),environmental,environmental,avian

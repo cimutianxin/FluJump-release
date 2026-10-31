@@ -1,0 +1,104 @@
+{
+  "n_mutants": 59186,
+  "n_backgrounds": 82,
+  "n_marker_sites": 19,
+  "n_control_sites": 19,
+  "labels": {
+    "label_is_jump": {
+      "known_human_subs": [
+        {
+          "sub": "Q226L",
+          "n": 66,
+          "median_dlogit": -0.3937,
+          "frac_positive": 0.197,
+          "wilcoxon_p": 3e-05
+        },
+        {
+          "sub": "G228S",
+          "n": 66,
+          "median_dlogit": 0.379,
+          "frac_positive": 0.818,
+          "wilcoxon_p": 0.0
+        },
+        {
+          "sub": "D190N",
+          "n": 59,
+          "median_dlogit": 0.8514,
+          "frac_positive": 0.898,
+          "wilcoxon_p": 0.0
+        },
+        {
+          "sub": "D190E",
+          "n": 59,
+          "median_dlogit": -1.1275,
+          "frac_positive": 0.119,
+          "wilcoxon_p": 0.0
+        },
+        {
+          "sub": "D225G",
+          "n": 49,
+          "median_dlogit": -0.6592,
+          "frac_positive": 0.163,
+          "wilcoxon_p": 0.00321
+        }
+      ],
+      "marker_vs_control_absmed": [
+        0.7551,
+        0.9654
+      ],
+      "mannwhitney_p_marker_greater": 1.0,
+      "h5_site_effect_spearman": [
+        0.244,
+        0.3144
+      ]
+    },
+    "label_is_jump_human": {
+      "known_human_subs": [
+        {
+          "sub": "Q226L",
+          "n": 66,
+          "median_dlogit": -0.3457,
+          "frac_positive": 0.258,
+          "wilcoxon_p": 0.00014
+        },
+        {
+          "sub": "G228S",
+          "n": 66,
+          "median_dlogit": 0.9652,
+          "frac_positive": 0.924,
+          "wilcoxon_p": 0.0
+        },
+        {
+          "sub": "D190N",
+          "n": 59,
+          "median_dlogit": 0.812,
+          "frac_positive": 0.881,
+          "wilcoxon_p": 0.0
+        },
+        {
+          "sub": "D190E",
+          "n": 59,
+          "median_dlogit": -1.3163,
+          "frac_positive": 0.051,
+          "wilcoxon_p": 0.0
+        },
+        {
+          "sub": "D225G",
+          "n": 49,
+          "median_dlogit": -0.5222,
+          "frac_positive": 0.204,
+          "wilcoxon_p": 0.00103
+        }
+      ],
+      "marker_vs_control_absmed": [
+        0.8014,
+        1.0146
+      ],
+      "mannwhitney_p_marker_greater": 1.0,
+      "h5_site_effect_spearman": [
+        0.381,
+        0.1078
+      ]
+    }
+  }
+}

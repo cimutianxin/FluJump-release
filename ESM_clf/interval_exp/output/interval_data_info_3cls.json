@@ -1,0 +1,35 @@
+{
+  "n_total": 665,
+  "n_train": 466,
+  "n_val": 99,
+  "n_test": 100,
+  "class_dist": {
+    "<1yr": 549,
+    "1-3yr": 50,
+    "3yr+": 66
+  },
+  "split_class_dist": {
+    "train": {
+      "<1yr": 380,
+      "1-3yr": 38,
+      "3yr+": 48
+    },
+    "val": {
+      "<1yr": 87,
+      "1-3yr": 6,
+      "3yr+": 6
+    },
+    "test": {
+      "<1yr": 82,
+      "1-3yr": 6,
+      "3yr+": 12
+    }
+  },
+  "interval3_labels": [
+    "<1yr",
+    "1-3yr",
+    "3yr+"
+  ],
+  "label_source": "raw iso_interval 重算（未 clamp），human_first 并入 <1yr",
+  "alignment": "accession-based merge + accession-based embedding slicing"
+}

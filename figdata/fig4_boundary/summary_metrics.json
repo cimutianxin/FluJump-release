@@ -1,0 +1,61 @@
+{
+  "pc1_variance_pct": 46.20370268821716,
+  "h7_proj_pos_neg": [
+    -5.160921279209559,
+    -3.281362551424131
+  ],
+  "h7_frac_negative_halfspace": 0.9940334128878282,
+  "sign_test": {
+    "H10": {
+      "n_layers_below_0.5": 20,
+      "n_layers": 31,
+      "p_two_sided": 0.14961278438568115
+    },
+    "H4": {
+      "n_layers_below_0.5": 6,
+      "n_layers": 31,
+      "p_two_sided": 0.0008779102936387062
+    }
+  },
+  "h10n8_rank": {
+    "cluster": "H10_197",
+    "event": "H10N8 江西 2013",
+    "label": "jump_human",
+    "layer": 13,
+    "rank_raw": 313,
+    "rank_flipped": 9,
+    "n_clusters": 321
+  },
+  "h10_prereg_cluster_auc_jump_L17_L28": [
+    0.4595307917888562,
+    0.4627565982404693
+  ],
+  "rho_h7_h10_range": [
+    0.6311,
+    0.7183
+  ],
+  "rho_h4_range": [
+    0.3678,
+    0.4198
+  ],
+  "rho_h5_range": [
+    0.1625,
+    0.3196
+  ],
+  "jaccard_h10_range": [
+    0.176,
+    0.333
+  ],
+  "js_percentile_range": [
+    52.8,
+    85.4
+  ],
+  "identity_probe_rho_range": [
+    0.1132,
+    0.1469
+  ],
+  "n_core_no_rbs": [
+    17,
+    0
+  ]
+}

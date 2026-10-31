@@ -1,0 +1,66 @@
+{
+  "level": "cluster",
+  "subtypes": [
+    "H1",
+    "H3",
+    "H5",
+    "H7"
+  ],
+  "ratios": {
+    "train": 0.7,
+    "val": 0.15,
+    "test": 0.15
+  },
+  "seed": 42,
+  "stratify": "随机搜索均衡划分（目标样本占比 70/15/15，约束 val/test 三类+四亚型俱全）",
+  "population": "H1357 & label_is_jump=1 & 有效 interval（raw days 可算）",
+  "n_total": 1191,
+  "n_clusters": 44,
+  "split_dist": {
+    "train": {
+      "n": 834,
+      "n_clusters": 26,
+      "class_dist": {
+        "<1yr": 708,
+        "1-3yr": 84,
+        "3yr+": 42
+      },
+      "subtype_dist": {
+        "H1": 329,
+        "H5": 329,
+        "H7": 121,
+        "H3": 55
+      }
+    },
+    "val": {
+      "n": 172,
+      "n_clusters": 7,
+      "class_dist": {
+        "<1yr": 154,
+        "1-3yr": 11,
+        "3yr+": 7
+      },
+      "subtype_dist": {
+        "H1": 107,
+        "H3": 34,
+        "H7": 18,
+        "H5": 13
+      }
+    },
+    "test": {
+      "n": 185,
+      "n_clusters": 11,
+      "class_dist": {
+        "<1yr": 159,
+        "1-3yr": 7,
+        "3yr+": 19
+      },
+      "subtype_dist": {
+        "H1": 122,
+        "H7": 25,
+        "H5": 20,
+        "H3": 18
+      }
+    }
+  }
+}

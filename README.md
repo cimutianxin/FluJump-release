@@ -41,7 +41,7 @@ The first model run downloads the ESM-2 backbone from Hugging Face. If it is alr
 
 ## Source-data acquisition
 
-Run all acquisition commands from the repository root. Downloaded files are written under `data/`, which is excluded from Git.
+Run all acquisition commands from the repository root. Fresh NCBI downloads are written under `data/raw/`, which is excluded from Git. Processed datasets and analysis outputs are tracked in the repository.
 
 ### NCBI Protein HA sequences and metadata
 
@@ -67,6 +67,17 @@ python data_acquisition/merge_borkenhagen.py
 ```
 
 Raw files are saved in `data/dataset_borkenhagen_raw/`; the merged table is written to `data/dataset_borkenhagen/borkenhagen_merged.csv`. These commands acquire and merge the source data only; they do not recreate the manuscript's control filtering or stratified split.
+
+## Processed data and analysis outputs
+
+The repository includes the processed collections and analysis artifacts used in the manuscript:
+
+- `data/processed/`, `data/processed_isolate/`, `data/processed_isolate_MAFFT/` and `data/splits/`.
+- `data/dataset_borkenhagen/` and `data/dataset_borkenhagen_raw/`.
+- `figdata/` for figure-ready data and rendering assets.
+- `validation_exp/**/output/`, `ESM_clf/**/output/`, `ESM_tf_clf/output/`, `Borkenhagen/cnn_baseline/output/` and `jev_exp/output/`.
+
+Snapshot provenance: `FluJump` commit `f44c6b0834cdaa35c33b82fa45194f166b7c8156`, plus the updated `figdata/fig6_surveillance/panelc_2024_cluster_ranking.csv` from the working tree.
 
 ## 1. Train
 

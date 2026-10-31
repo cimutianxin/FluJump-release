@@ -1,0 +1,148 @@
+{
+  "n_2026": 201,
+  "positives": "10 条 = 2 簇（H5 cluster70 ×9 + H1 cluster15 ×1）",
+  "probe_thresholds": {
+    "label_is_jump": {
+      "high": 2.127477464767681,
+      "mid": -2.3618003237008325
+    },
+    "label_is_jump_human": {
+      "high": 2.1917369895368886,
+      "mid": -2.847899485249286
+    }
+  },
+  "naive_thresholds": {
+    "label_is_jump": {
+      "high": 0.9982331991195679,
+      "mid": 1.0
+    },
+    "label_is_jump_human": {
+      "high": 1.0,
+      "mid": 1.0
+    }
+  },
+  "logit_crosscheck": {
+    "rho": 1.0,
+    "max_abs_diff": 4.987036816039847e-05
+  },
+  "jump": {
+    "probe": {
+      "tier_table": {
+        "0": {
+          "中": 1,
+          "低": 190,
+          "高": 0
+        },
+        "1": {
+          "中": 8,
+          "低": 1,
+          "高": 1
+        }
+      },
+      "high": {
+        "n": 1,
+        "tp": 1,
+        "precision": 1.0,
+        "recall": 0.1,
+        "fpr": 0.0
+      },
+      "mid_plus": {
+        "n": 10,
+        "tp": 9,
+        "precision": 0.9,
+        "recall": 0.9,
+        "fpr": 0.0052
+      },
+      "pos_trainpct_median": 0.9338,
+      "pos_cluster_best_tier": {
+        "15": "低",
+        "70": "高"
+      }
+    },
+    "naive": {
+      "tier_table": {
+        "0": {
+          "低": 112,
+          "高": 79
+        },
+        "1": {
+          "低": 10,
+          "高": 0
+        }
+      },
+      "high": {
+        "n": 79,
+        "tp": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "fpr": 0.4136
+      },
+      "mid_plus": {
+        "n": 79,
+        "tp": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "fpr": 0.4136
+      }
+    }
+  },
+  "jump_human": {
+    "probe": {
+      "tier_table": {
+        "0": {
+          "中": 0,
+          "低": 191
+        },
+        "1": {
+          "中": 8,
+          "低": 2
+        }
+      },
+      "high": {
+        "n": 0,
+        "tp": 0,
+        "precision": null,
+        "recall": 0.0,
+        "fpr": 0.0
+      },
+      "mid_plus": {
+        "n": 8,
+        "tp": 8,
+        "precision": 1.0,
+        "recall": 0.8,
+        "fpr": 0.0
+      },
+      "pos_trainpct_median": 0.8834,
+      "pos_cluster_best_tier": {
+        "15": "中",
+        "70": "中"
+      }
+    },
+    "naive": {
+      "tier_table": {
+        "0": {
+          "低": 141,
+          "高": 50
+        },
+        "1": {
+          "低": 10,
+          "高": 0
+        }
+      },
+      "high": {
+        "n": 50,
+        "tp": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "fpr": 0.2618
+      },
+      "mid_plus": {
+        "n": 50,
+        "tp": 0,
+        "precision": 0.0,
+        "recall": 0.0,
+        "fpr": 0.2618
+      }
+    }
+  }
+}

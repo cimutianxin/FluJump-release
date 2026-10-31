@@ -1,0 +1,76 @@
+{
+  "n_audit_rows": 49,
+  "flips": [
+    {
+      "subtype": "H5",
+      "cluster_id": "73",
+      "label": "label_is_jump",
+      "old": 1,
+      "new": 0
+    },
+    {
+      "subtype": "H5",
+      "cluster_id": "123",
+      "label": "label_is_jump",
+      "old": 1,
+      "new": 0
+    },
+    {
+      "subtype": "H5",
+      "cluster_id": "117",
+      "label": "label_is_jump",
+      "old": 1,
+      "new": 0
+    },
+    {
+      "subtype": "H5",
+      "cluster_id": "252",
+      "label": "label_is_jump",
+      "old": 1,
+      "new": 0
+    },
+    {
+      "subtype": "H7",
+      "cluster_id": "107",
+      "label": "label_is_jump",
+      "old": 1,
+      "new": 0
+    },
+    {
+      "subtype": "H7",
+      "cluster_id": "80",
+      "label": "label_is_jump",
+      "old": 1,
+      "new": 0
+    },
+    {
+      "subtype": "H7",
+      "cluster_id": "81",
+      "label": "label_is_jump",
+      "old": 1,
+      "new": 0
+    }
+  ],
+  "per_subtype": {
+    "H1": {
+      "n_flips": 0
+    },
+    "H3": {
+      "n_flips": 0
+    },
+    "H5": {
+      "n_flips": 4
+    },
+    "H7": {
+      "n_flips": 3
+    }
+  },
+  "critical_clusters_touched": [
+    [
+      "H5",
+      "70"
+    ]
+  ],
+  "critical_clusters_flipped": [],
+  "n_isolate_rows_in_flipped_clusters": 45
+}
