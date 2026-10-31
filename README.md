@@ -2,7 +2,7 @@
 
 A minimal implementation of the influenza A hemagglutinin (HA) surveillance-scoring workflow described in the FluJump manuscript. It trains frozen ESM-2 linear readouts and converts their raw decision scores into training-set quantiles and alert tiers.
 
-This repository contains source-data acquisition and the minimal modelling workflow, not the full research pipeline or experiment suite. For the full analyses, see [cimutianxin/FluJump](https://github.com/cimutianxin/FluJump).
+This repository contains source-data acquisition and the minimal modelling workflow, not the full research pipeline or experiment suite.
 
 ## Implemented workflow
 
